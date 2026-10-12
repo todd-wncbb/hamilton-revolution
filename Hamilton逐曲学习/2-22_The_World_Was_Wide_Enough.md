@@ -16,7 +16,18 @@
 **We rowed across the Hudson at dawn. My friend, William P. Van Ness signed on as my— / Number two!**
 
 - 中文：我们在黎明划船过了哈德逊河。我的朋友 William P. Van Ness 答应做我的——/（合唱打断）第二！
-- 用法：`row` /roʊ/ 划船，`sign on as` 签约担任（某个角色），这里指「决斗助手」(second)，但合唱在他说完 `second` 之前就喊出了「第二！」——`second` 既是「决斗助手」，也是数字「第二」，合唱的编号正好接住了这个双关。
+- 用法：`row` 划船，`sign on as` 签约担任（某个角色），这里指「决斗助手」(second)，但合唱在他说完 `second` 之前就喊出了「第二！」——`second` 既是「决斗助手」，也是数字「第二」，合唱的编号正好接住了这个双关。
+- 单词：
+  - `row` /roʊ/
+    - 词性：vi./vt.
+    - 变形：row – rowed – rowed（规则）
+    - 这里：划船
+    - 其他：拼写一样但读 /raʊ/ 时是「争吵、吵架」（英式口语），和「划船」完全不同的意思和读音，容易读混
+  - `second` /ˈsekənd/
+    - 词性：n. 可数（这里指「决斗助手」）；也是序数词
+    - 变形：复数 seconds
+    - 这里：决斗助手（为决斗者作证、处理流程的人）
+    - 其他：最常见是数字「第二」或时间单位「秒」；动词 `second a motion` = 对一个提议表示附议，也是从「支持者」这个意思引申出来的
 
 **Hamilton arrived with his crew: Nathaniel Pendleton and a doctor that he knew. / Number three!**
 
@@ -26,12 +37,37 @@
 **I watched Hamilton examine the terrain. I wish I could tell you what was happ'ning in his brain. This man has poisoned my political pursuits! / Most disputes die and no one shoots! Number four!**
 
 - 中文：我看着 Hamilton 查看地形。我真希望能告诉你他脑子里当时在想什么。这个人把我的政治前途都毒害了！/（合唱）大多数争端最后都不了了之，没人会真的开枪！第四！
-- 语法：`terrain` /təˈreɪn/ 地形。`I wish I could tell you` 是对现在做不到的事的愿望（虚拟语气）。`what was happ'ning` 用过去时，因为说的是当时他脑子里的事。`poison`（毒害）、`pursuit` /pərˈsuːt/（追求）合在一起，是「政治前途被毒化了」。合唱接的「大多数争端最后都不了了之」是第 15 曲定下的规则，这里被重复提起，是一种讽刺性的提醒——规则本该保护他们，这次没有。
+- 语法：`terrain` 地形。`I wish I could tell you` 是对现在做不到的事的愿望（虚拟语气）。`what was happ'ning` 用过去时，因为说的是当时他脑子里的事。`poison`（毒害）、`pursuit`（追求）合在一起，是「政治前途被毒化了」。合唱接的「大多数争端最后都不了了之」是第 15 曲定下的规则，这里被重复提起，是一种讽刺性的提醒——规则本该保护他们，这次没有。
+- 单词：
+  - `terrain` /təˈreɪn/
+    - 词性：n. 不可数（泛指地形时）/可数（指某一片具体地形时）
+    - 这里：地形
+    - 其他：常比喻用于「领域、局面」，`political terrain` = 政治局面、政治地图，和这里字面的「地形」形成一种隐喻呼应
+  - `pursuit` /pərˈsuːt/
+    - 词性：n. 可数/不可数
+    - 变形：复数 pursuits
+    - 这里：（政治）追求、前途
+    - 其他：`in pursuit of` = 追求……（的过程中），是常见搭配；动词 `pursue` 也很常用，「追求、追逐」
 
 **Hamilton drew first position. Looking, to the world, like a man on a mission. This is a soldier with a marksman's ability. The doctor turned around so he could have deniability.**
 
 - 中文：Hamilton 抽到了先手位置。在世人眼中，他看起来就像一个肩负使命的人。这是一个有着神射手能力的军人。医生转过身去，这样他就能保有「可以否认」的余地。
-- 用法：`draw` 这里是抽签，不是画画。`to the world` = 在世人眼里。`a man on a mission` 肩负使命的人，是成语。`marksman` /ˈmɑːrksmən/ 神枪手。`deniability` /dɪˌnaɪəˈbɪləti/ 可以否认的余地——医生转过身，这样他事后就能说自己没看见是谁先开的枪，`so` 这里表示目的。
+- 用法：`draw` 这里是抽签，不是画画。`to the world` = 在世人眼里。`a man on a mission` 肩负使命的人，是成语。`marksman` 神枪手。`deniability` 可以否认的余地——医生转过身，这样他事后就能说自己没看见是谁先开的枪，`so` 这里表示目的。
+- 单词：
+  - `draw` /drɔː/
+    - 词性：vt./vi.
+    - 变形：draw – drew – drawn（不规则）
+    - 这里：抽签
+    - 其他：最常见的意思是「画画」；体育比赛里 `a draw` 当名词是「平局」；`draw a conclusion` = 得出结论，都是同一个动词的不同引申
+  - `marksman` /ˈmɑːrksmən/
+    - 词性：n. 可数
+    - 变形：复数 marksmen（不规则，-man 结尾的名词复数通常变 -men）
+    - 这里：神枪手
+    - 其他：`marks-` 来自 `mark`（目标、靶子），同类构词还有 `craftsman`（工匠）、`statesman`（政治家），都是 `-sman` 结尾表示「某领域的专精人士」
+  - `deniability` /dɪˌnaɪəˈbɪləti/
+    - 词性：n. 不可数
+    - 这里：可以否认的余地
+    - 其他：常见搭配 `plausible deniability` = 「看似合理的可推脱性」，是政治、法律新闻里的常用术语，指刻意安排得让自己事后可以说「我不知道」
 
 **Five! / Now I didn't know this at the time but we were— near the same spot your son died, is that why— (my son died, is that why—)**
 
@@ -41,17 +77,38 @@
 **Six! / He examined his gun with such rigor? I watched as he methodically fiddled with the trigger.**
 
 - 中文：第六！/ 他检查自己的枪那么一丝不苟？我看着他有条不紊地摆弄扳机。
-- 用法：`rigor` /ˈrɪɡər/ 严谨、一丝不苟。`methodically` /məˈθɑːdɪkli/ 有条理地。`fiddle with` = 摆弄、把玩，带点不耐烦或心不在焉的意味——Burr 盯着这个细节，是因为他事后一直逼自己回想：Hamilton 当时到底是不是真的打算开枪。
+- 用法：`rigor` 严谨、一丝不苟。`methodically` 有条理地。`fiddle with` = 摆弄、把玩，带点不耐烦或心不在焉的意味——Burr 盯着这个细节，是因为他事后一直逼自己回想：Hamilton 当时到底是不是真的打算开枪。
+- 单词：
+  - `rigor` /ˈrɪɡər/
+    - 词性：n. 不可数
+    - 这里：严谨、一丝不苟
+    - 其他：形容词 `rigorous` = 严谨的、严格的，`rigorous testing` = 严格的测试，是学术、科研语境里的高频词
+  - `methodically` /məˈθɑːdɪkli/
+    - 词性：adv.
+    - 这里：有条理地、按部就班地
+    - 其他：形容词 `methodical` = 有条理的；词根 `method`（方法）本身是常用词，`-ically` 这类副词后缀常见于以 `-ic` 结尾的形容词（`basically`、`specifically`）
 
 **Seven! / Confession time? Here's what I got: My fellow soldiers'll tell you I'm a terrible shot.**
 
 - 中文：第七！/ 坦白时间？我能说的就是：我的战友们都会告诉你，我是个糟糕的射手。
-- 用法：`confession` /kənˈfeʃn/ 坦白、认罪，是带宗教意味的词，这里 Burr 用它给自己找借口——提前铺垫「我枪法差」，为后面意外、甚至致命的那一枪留退路。
+- 用法：`confession` 坦白、认罪，是带宗教意味的词，这里 Burr 用它给自己找借口——提前铺垫「我枪法差」，为后面意外、甚至致命的那一枪留退路。
+- 单词：
+  - `confession` /kənˈfeʃn/
+    - 词性：n. 可数/不可数
+    - 变形：复数 confessions
+    - 这里：坦白、认罪
+    - 其他：天主教语境里专指「向神父忏悔」；动词 `confess` 也很常用，`confess to doing sth` = 承认做了某事
 
 **Number eight! / Your last chance to negotiate. Send in your seconds, see if they can set the record straight. / They won't teach you this in your classes, but look it up, Hamilton was wearing his glasses. Why? If not to take deadly aim? It's him or me, the world will never be the same. I had only one thought before the slaughter: This man will not make an orphan of my daughter.**
 
 - 中文：第八！/（Burr/Hamilton/男声合唱）这是你最后一次谈和的机会。让你们的决斗助手去谈，看他们能不能把事情说清楚。/（Burr）这个他们不会教你，但你去查——Hamilton 当时戴着眼镜。为什么？不就是为了瞄得更准吗？不是他死就是我死，这个世界从此会不一样。我在这场屠杀之前心里只有一个念头：这个人绝不能让我的女儿变成孤儿。
-- 用法：`set the record straight` = 把事情说清楚、澄清事实。`look it up` = 自己去查（资料），强调「这不是我瞎编的」。`slaughter` /ˈslɔːtər/ 屠杀，呼应第 1 曲里奴隶贸易那段用过的同一个词，这里用在决斗场上，分量更重。`make an orphan of someone` = 让某人变成孤儿——Burr 的理由呼应全剧开场「孤儿」的主题：他不想让女儿 Theodosia 也变成没有父亲的孩子，讽刺的是，Hamilton 自己正是从孤儿长大的。
+- 用法：`set the record straight` = 把事情说清楚、澄清事实。`look it up` = 自己去查（资料），强调「这不是我瞎编的」。`slaughter` 屠杀，呼应第 1 曲里奴隶贸易那段用过的同一个词，这里用在决斗场上，分量更重。
+- 单词：
+  - `slaughter` /ˈslɔːtər/
+    - 词性：n. 不可数；也作 vt. 及物
+    - 变形：动词 slaughter – slaughtered – slaughtered（规则）
+    - 这里：（这场）屠杀、杀戮
+    - 其他：也常指「屠宰（牲畜）」，`a slaughterhouse` = 屠宰场`make an orphan of someone` = 让某人变成孤儿——Burr 的理由呼应全剧开场「孤儿」的主题：他不想让女儿 Theodosia 也变成没有父亲的孩子，讽刺的是，Hamilton 自己正是从孤儿长大的。
 
 **Number nine! / Look him in the eye, aim no higher. Summon all the courage you require. Then count: / One two three four five six seven eight nine, number ten paces! Fire!—**
 
@@ -91,12 +148,34 @@
 **I walk towards him, but I am ushered away. They row him back across the Hudson. I get a drink. / I hear wailing in the streets. / Somebody tells me, "You'd better hide." / They say Angelica and Eliza were both at his side when he died.**
 
 - 中文：我想走向他，但被人推着带走了。他们把他划船送回哈德逊河对岸。我去喝了一杯。/ 我听见街上有哭声。/ 有人告诉我，"你最好躲起来。"/ 他们说，Angelica 和 Eliza 临终前都陪在他身边。
-- 用法：`usher away` = 引导、护送……离开，这里是别人把 Burr 从现场带走，不让他靠近。`wailing` /ˈweɪlɪŋ/ 哀号、哭号。这几句用最平淡、几乎公务式的语气描述枪击之后的处理过程——划船送回去、喝酒、听到哭声、被人警告要躲起来——和前面 Hamilton 情感浓烈的临终独白形成强烈反差，正是 Burr 这个角色一贯「冷」的说话方式（见 [00](00_使用说明与通用知识.md)「四种说话方式」）。
+- 用法：`usher away` = 引导、护送……离开，这里是别人把 Burr 从现场带走，不让他靠近。`wailing` 哀号、哭号。这几句用最平淡、几乎公务式的语气描述枪击之后的处理过程——划船送回去、喝酒、听到哭声、被人警告要躲起来——和前面 Hamilton 情感浓烈的临终独白形成强烈反差，正是 Burr 这个角色一贯「冷」的说话方式（见 [00](00_使用说明与通用知识.md)「四种说话方式」）。
+- 单词：
+  - `usher` /ˈʌʃər/
+    - 词性：vt. 及物；也作 n. 可数
+    - 变形：动词 usher – ushered – ushered（规则）
+    - 这里：`usher away` = 护送、引导（某人）离开
+    - 其他：名词 `an usher` 常指婚礼、剧院里「引座员」，负责引导客人到座位
+  - `wail` /weɪl/
+    - 词性：vi./vt.；也作 n. 可数
+    - 变形：wail – wailed – wailed（规则）
+    - 这里：哀号、哭号
+    - 其他：`wailing` 这里是动名词；警报声的「呜呜声」也常用这个词形容，`a wailing siren` = 呜呜作响的警报声
 
 **Death doesn't discriminate between the sinners and the saints, it takes and it takes and it takes. History obliterates.**
 
 - 中文：死亡不会区分谁是罪人、谁是圣人，它不停地夺走，不停地夺走，不停地夺走。历史会把一切都抹去。
-- 用法：这四句原样回收了 Burr 自己在第 13 曲《Wait For It》里唱过的歌词——那时他借这句话解释自己为什么宁可等待、不愿冒险；现在同一句话被他用在 Hamilton 身上，意思从「关于命运不公的哲学」变成了「我亲手造成的事实」。`discriminate between A and B` = 区分 A 和 B。`obliterate` /əˈblɪtəreɪt/ 彻底抹去、消灭。
+- 用法：这四句原样回收了 Burr 自己在第 13 曲《Wait For It》里唱过的歌词——那时他借这句话解释自己为什么宁可等待、不愿冒险；现在同一句话被他用在 Hamilton 身上，意思从「关于命运不公的哲学」变成了「我亲手造成的事实」。`discriminate between A and B` = 区分 A 和 B。`obliterate` 彻底抹去、消灭。
+- 单词：
+  - `discriminate` /dɪˈskrɪmɪneɪt/
+    - 词性：vi. 不及物，常接 between/against
+    - 变形：discriminate – discriminated – discriminated（规则）
+    - 这里：`discriminate between A and B` = 区分 A 和 B
+    - 其他：更常见、也更重要的用法是 `discriminate against sb` = 歧视某人；名词 `discrimination` 日常几乎总是指「歧视」，而不是单纯的「区分」
+  - `obliterate` /əˈblɪtəreɪt/
+    - 词性：vt. 及物
+    - 变形：obliterate – obliterated – obliterated（规则）
+    - 这里：彻底抹去、消灭
+    - 其他：比 `destroy` 更强调「连痕迹都不留」，常用于描述轰炸、灾难抹去一座城市，或比喻「记录/记忆被彻底清除」
 
 **In every picture it paints, it paints me with all my mistakes. When Alexander aimed at the sky, he may have been the first one to die, but I'm the one who paid for it. I survived, but I paid for it.**
 
@@ -106,7 +185,13 @@
 **Now I'm the villain in your history. I was too young and blind to see... I should've known. I should've known the world was wide enough for both Hamilton and me.**
 
 - 中文：现在我在你们的历史书里是那个反派。我当年太年轻、太盲目，看不清……我本该知道。我本该知道，这个世界本来够大，容得下 Hamilton 和我两个人。
-- 用法：`villain` /ˈvɪlən/ 反派。`too ... to see` = 太……而看不见。`should've known` = should have known，对过去的后悔，「我本该知道」。`in your history` 的 `your` 指向观众——他直接对着后世、对着历史书的读者说话，是全剧少有的打破第四面墙的时刻，提醒观众「这是别人写下的历史」。
+- 用法：`villain` 反派。`too ... to see` = 太……而看不见。`should've known` = should have known，对过去的后悔，「我本该知道」。`in your history` 的 `your` 指向观众——他直接对着后世、对着历史书的读者说话，是全剧少有的打破第四面墙的时刻，提醒观众「这是别人写下的历史」。
+- 单词：
+  - `villain` /ˈvɪlən/
+    - 词性：n. 可数
+    - 变形：复数 villains
+    - 这里：反派
+    - 其他：电影、小说评论里的高频词，`play the villain` = 扮演反派；也可以口语化地用来形容「做坏事的人」，不一定是虚构角色
 
 **The world was wide enough.**
 

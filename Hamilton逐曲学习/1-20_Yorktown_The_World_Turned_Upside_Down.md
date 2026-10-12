@@ -27,7 +27,11 @@
 
 - 中文：我不会浪费我这一次机会！我不会浪费我这次机会！嘿，我就跟我的国家一样，年轻、不服输又渴望成功，我不会浪费我这次机会！我不会浪费我这次机会！/ 直到世界彻底翻过来……/ 直到世界彻底翻过来！
 - 语法：第 3 曲里出现过几乎一样的句子，这里 `I am not throwin' away my shot` 从「我要抓住人生机会」的比喻，变成战场上真的拿着枪、字面意义上不浪费这一枪——这是全剧最明显的一次把双关「说回字面」。
-- `scrappy` /ˈskræpi/ 不服输、好斗的
+- 单词：
+  - `scrappy` /ˈskræpi/
+    - 词性：adj.
+    - 这里：不服输、好斗的
+    - 其他：也可以是贬义，形容「东拼西凑、乱糟糟的」（`a scrappy piece of writing` = 一篇写得很零碎的文章），和「不服输」这个褒义用法要靠上下文分辨
 
 **I imagine death so much it feels more like a memory. This is where it gets me: on my feet, the enemy ahead of me. If this is the end of me, at least I have a friend with me, weapon in my hand, a command, and my men with me.**
 
@@ -73,6 +77,22 @@
 
 - 中文：一个一边给英国政府做衣服、一边刺探他们情报的裁缝！我量他们的尺寸，顺便拿到情报，然后把情报偷偷送出去！送到我哥哥的革命阵营那边。我跟「自由之子」一起干，干得很爽！瞧，这就是你跟那些混蛋对着干的下场。我们现在深陷麻烦了，总得有人出来扛！Hercules Mulligan，我用不着谁给我做介绍，你把我打倒，我他妈又会爬起来！
 - 语法：`smuggle` 走私、偷偷运送。`covenant` /ˈkʌvənənt/ 本义是（宗教/法律意义上的）盟约，这里指革命阵营、同盟。`Sons of Liberty`（自由之子）是真实存在的美国独立前反英组织。`We in the shit now` 粗口俗语「我们现在麻烦大了」，`somebody gotta shovel it` 字面「总得有人把它铲掉」，呼应前面的 shit，一句脏话延伸成了完整的比喻。`I need no introduction` = 用不着介绍（因为已经很有名）。
+- 单词：
+  - `smuggle` /ˈsmʌɡl/
+    - 词性：vt. 及物
+    - 变形：smuggle – smuggled – smuggled（规则）
+    - 这里：偷偷运送（情报）
+    - 其他：最常见的语境是「走私」，`smuggle drugs across the border` = 走私毒品过境；也可以指把人偷偷带进/带出某地
+  - `covenant` /ˈkʌvənənt/
+    - 词性：n. 可数
+    - 变形：复数 covenants
+    - 这里：（革命）阵营、同盟
+    - 其他：宗教语境里专指上帝和人之间的「圣约」（`the Old Covenant`）；法律合同里也会用，指合同条款里的某项「约定事项」
+  - `shovel` /ˈʃʌvl/
+    - 词性：vt. 及物（这里）；也作 n. 可数
+    - 变形：shovel – shoveled – shoveled（规则，美式单 l；英式常拼 shovelled）
+    - 这里：`somebody gotta shovel it` = 总得有人去铲（处理这堆烂事）
+    - 其他：名词就是工具「铁铲」；动词字面也是「用铁铲铲（雪、土）」，`shovel snow` = 铲雪
 
 **Left! Right! Hold! Go! What! What! What!**
 
@@ -82,9 +102,26 @@
 **After a week of fighting, a young man in a red coat stands on a parapet. We lower our guns as he frantically waves a white handkerchief.**
 
 - 中文：打了一周之后，一个穿红衣的年轻人站上了胸墙。我们放下枪，因为他正慌乱地挥舞着一块白手帕。
-- `parapet` /ˈpærəpɪt/ 胸墙，年轻人站在胸墙上手挥 `handkerchief` /ˈhæŋkərtʃɪf/ 手帕，白旗的意思是投降
-- `frantically` /ˈfræntɪkli/ 慌乱地
-- `We lower our guns`：`lower` 这里读 /ˈloʊər/，是「放下」，不是低声
+- 单词：
+  - `parapet` /ˈpærəpɪt/
+    - 词性：n. 可数
+    - 变形：复数 parapets
+    - 这里：胸墙（防御工事上的矮墙）
+    - 其他：也可以指普通建筑屋顶边缘的矮墙（比如桥边、阳台边的护墙），不一定和军事有关
+  - `handkerchief` /ˈhæŋkərtʃɪf/
+    - 词性：n. 可数
+    - 变形：复数 handkerchiefs
+    - 这里：手帕，这里挥白手帕表示投降
+    - 其他：口语里常简称 `hanky`
+  - `frantically` /ˈfræntɪkli/
+    - 词性：adv.
+    - 这里：慌乱地
+    - 其他：形容词 `frantic` 常搭配 `frantic search`（疯狂地找）、`frantic pace`（手忙脚乱的节奏）
+  - `lower` /ˈloʊər/
+    - 词性：vt. 及物（这里）；也是形容词 `low` 的比较级
+    - 变形：动词 lower – lowered – lowered（规则）
+    - 这里：`lower our guns` = 把枪放下，读 /ˈloʊər/，别读成「更低」那个比较级的感觉就想到「低声」
+    - 其他：也常搭配嗓音，`lower one's voice` = 放低声音说话；形容词比较级 `a lower price` = 更低的价格，拼写和这个动词完全一样
 
 **And just like that, it's over. We tend to our wounded, we count our dead.**
 
@@ -100,6 +137,22 @@
 
 - 中文：我们谈好了投降的条款。我看见 George Washington 笑了。我们护送他们的人撤出约克镇。他们排成单列、步履蹒跚地往回走。成千上万的人涌上街头。到处是欢呼和教堂的钟声。当我们打败的敌人撤退时，我听见他们唱起那首饮酒歌……
 - 用法：`single file` = 排成一纵队。`fallen foes` 字面「倒下的敌人」，这里是「被打败的敌人」，不是说敌人死了。`drinking song` 指下面即将唱出的《The World Turned Upside Down》——传说真实历史上英军投降时军乐队确实演奏过这首曲子。
+- 单词：
+  - `foe` /foʊ/
+    - 词性：n. 可数
+    - 变形：复数 foes
+    - 这里：敌人
+    - 其他：比 `enemy` 更文学、更古旧，日常口语基本只说 `enemy`，`foe` 多出现在诗歌、演讲或刻意庄重的场合
+  - `stagger` /ˈstæɡər/
+    - 词性：vi. 不及物
+    - 变形：stagger – staggered – staggered（规则）
+    - 这里：步履蹒跚地走
+    - 其他：形容词 `staggering` = 令人震惊的（数量、程度），`a staggering amount of money` = 一笔惊人的钱，和「走不稳」没关系，是引申出来的另一个常见义
+  - `flood` /flʌd/
+    - 词性：vi./vt.（这里不及物）；也作 n. 可数/不可数
+    - 变形：flood – flooded – flooded（规则）
+    - 这里：`flood the streets` = 涌上街头
+    - 其他：字面最常见的意思是「洪水、水灾」；`be flooded with requests` = 被大量请求淹没，是常见的比喻搭配
 
 **The world turned upside down**（全场反复合唱，最后几声 `down, down, down` 渐渐低下去，模拟声音真的往下沉）
 

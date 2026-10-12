@@ -22,8 +22,25 @@ Eliza 的视角。舞会上她看见 Hamilton，写信，然后结婚。副歌�
 
 - 中文：我从来不是那种抢风头的人。那天晚上很热，我们在一群反抗者的聚会上，笑着看我姐姐在舞厅里光芒四射，然后你走了进来，我的心"砰"地一声。我想从舞厅边上偷偷吸引你的注意，大家都在跳舞，乐队把音量开到最大。
 - 语法：`the type to do` = 会做某事的那种人。`as she's dazzling the room` 中 `as` 表示同时发生的背景动作，不是「因为」。`my heart went "Boom!"` 把心跳声直接当动词的宾语说出来，是拟声。
-- `revel` /ˈrevl/ 狂欢聚会。`rebels` 双关：字面是反抗英国的"叛军"士兵，也点出这场聚会本身带着造反的气氛
-- `top volume` 音量开到最大
+- 单词：
+  - `revel` /ˈrevl/
+    - 词性：n. 可数（这里）；也作 vi. 不及物
+    - 变形：动词 revel – reveled – reveled（美式规则，英式双写 l：revelled）
+    - 这里：狂欢聚会
+    - 其他：常用搭配 `revel in sth` = 沉浸在某事中、乐在其中；和「叛军」`rebel` 发音很像，歌词这里是刻意的音近双关
+  - `rebel` /ˈrebl/
+    - 词性：n. 可数（重音在前）；动词时重音在后 /rɪˈbel/，vi. 不及物
+    - 这里：反抗英国的叛军士兵，也点出这场聚会本身带着造反的气氛
+    - 其他：名词、动词重音位置不同，是英语里常见的「重音移位」现象（类似 record、present）
+  - `volume` /ˈvɑːljuːm/
+    - 词性：n. 不可数（音量）；也可数（书的「卷」）
+    - 这里：`top volume` = 最大音量
+    - 其他：也指书籍的「卷」（`volume two` = 第二卷）或物理上的「体积」
+  - `dazzle` /ˈdæzl/
+    - 词性：vt./vi.
+    - 变形：dazzle – dazzled – dazzled（规则）
+    - 这里：光芒四射、让人眼花
+    - 其他：形容词 `dazzling` 常用来夸人「光彩夺目」，也可指字面的强光刺眼
 
 **Grind to the rhythm as we wine and dine. Grab my sister, and whisper, "Yo, this one's mine."**
 
@@ -64,6 +81,16 @@ Eliza 的视角。舞会上她看见 Hamilton，写信，然后结婚。副歌�
 
 - 中文：两周后，在客厅里紧张得要死，我父亲面无表情，你却在请求他的祝福。我内心快死了，看着你应酬周旋，我拼命不哭出来，因为你的脑子好像什么都能解决。
 - 用法：`stone-faced` = 面无表情，像石头一样。`ask for someone's blessing` = 请求祝福，常用于求婚前先得到女方父亲的同意。`there's nothing that your mind can't do` 是双重否定表强烈肯定：你什么都能搞定。背景 ALL WOMEN 轻声跟唱 `stressin'`、`blessin'`，把她的紧张情绪延长。
+- 单词：
+  - `stone-faced` /ˈstoʊn feɪst/
+    - 词性：adj.
+    - 这里：面无表情
+    - 其他：是复合形容词的常见造法，`-faced` 结尾还有 `two-faced`（两面三刀的）、`baby-faced`（娃娃脸的）
+  - `blessing` /ˈblesɪŋ/
+    - 词性：n. 可数/不可数
+    - 变形：复数 blessings
+    - 这里：`ask for sb's blessing` = 请求某人的祝福/同意
+    - 其他：也常用于 `a blessing in disguise` = 乔装的福气，指表面是坏事、其实带来好结果的事
 
 **My father makes his way across the room to you. I panic for a second, thinking, "we're through." But then he shakes your hand and says, "Be true." And you turn back to me, smiling, and I'm Helpless! That boy is mine, that boy is mine!**
 
@@ -74,20 +101,41 @@ Eliza 的视角。舞会上她看见 Hamilton，写信，然后结婚。副歌�
 
 - 中文：伊丽莎，我名下没有一块钱，没有一亩地，没有一支可以指挥的部队，也没有一点点名气。我只有我的名誉、能忍痛的本事、几个大学学分，还有我顶尖的脑子。
 - 语法：这一串用「量词 + 名词」的格式把钱、地、兵、名气排成一列（a dollar / an acre / a troop / a dollop），把抽象的"名气"也用食物量词 `dollop`（一勺、一团）来称量，制造滑稽的对比效果；`All I have's my honor...` = `All I have is my honor...`，`have's` 是口语缩读。
-- `dollop` /ˈdɑːləp/ 一勺、一团（通常指食物），这里用来称量"一点点名气"
-- `top-notch` /ˈtɑːp nɑːtʃ/ 顶尖的、一流的
+- 单词：
+  - `dollop` /ˈdɑːləp/
+    - 词性：n. 可数
+    - 变形：复数 dollops
+    - 这里：一点点（名气），本义「一勺、一团」
+    - 其他：日常最常用于食物，`a dollop of cream` = 一勺奶油
+  - `top-notch` /ˈtɑːp nɑːtʃ/
+    - 词性：adj.
+    - 这里：顶尖的、一流的
+    - 其他：口语里常直接修饰人或东西，`top-notch service` = 一流的服务
 
 **Insane, your family brings out a different side of me, Peggy confides in me, Angelica tried to take a bite of me, no stress, my love for you is never in doubt. We'll get a little place in Harlem and we'll figure it out.**
 
 - 中文：真是疯了，你们家把我身上不一样的一面带出来了：Peggy 跟我说心事，Angelica 想"咬一口"尝尝我——字面是咬一口，这里实指她对我有过兴趣、想占有一下——没关系，我对你的爱从没动摇过。我们会在哈林区找个小地方住下，日子总会过下去的。
 - 用法：`confide in someone` = 向某人吐露心事，`in` 不能漏。`take a bite of someone` 字面「咬一口」，这是食物比喻的延续（呼应上一句的 `dollop`），实指"也想分一杯羹、也对他有意思"。`no stress` 口语，别担心、没事。
-- `Harlem` 哈林区，当时纽约北部相对便宜的住宅区，后来成为非裔美国人文化中心
+- 单词：
+  - `harem` /ˈhærəm/
+    - 词性：n. 可数
+    - 变形：复数 harems
+    - 这里：（开玩笑说法）后宫，一群追求者
+    - 其他：历史上特指伊斯兰宫廷里女性居住的内院，现代口语里常被挪用、半开玩笑地形容「一群迷恋同一个人的人」
+  - `Harlem`
+    - 词性：n. 专有名词（地名）
+    - 这里：哈林区，当时纽约北部相对便宜的住宅区
+    - 其他：后来成为非裔美国人文化中心，是「哈林文艺复兴」（Harlem Renaissance）的发源地之一
 
 **I've been livin' without a family since I was a child. My father left, my mother died, I grew up buckwild. But I'll never forget my mother's face, that was real, and long as I'm alive, Eliza, swear to God, you'll never feel so…**
 
 - 中文：我从小就没有家人。父亲走了，母亲死了，我是野着长大的。但我永远不会忘记我母亲的脸，那是真实的，只要我还活着，伊丽莎，我向上帝起誓，你永远不会感到这么……
 - 用法：这句话故意不说完（最后一个词留给 `helpless` 去填），和 Eliza 之前一直唱的副歌接上，变成他对她的承诺。`buckwild` 是 `wild` 的俚语强调形式，指毫无管束、放任地长大。
-- `buckwild` /ˈbʌkwaɪld/ 完全放纵、不受管束
+- 单词：
+  - `buckwild` /ˈbʌkwaɪld/
+    - 词性：adj.
+    - 这里：完全放纵、不受管束
+    - 其他：是 `wild` 的俚语强调形式，口语化，正式写作里基本不用
 
 **Eliza... I've never felt so— / My life is gon' be fine cuz Eliza's in it. ... I do I do I do I do! ... I'm down for the count, I'm— ... I look into your eyes, and the sky's the limit I'm... drownin' in 'em.**
 

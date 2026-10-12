@@ -12,6 +12,16 @@ Hamilton 独自留在城里，Maria Reynolds 登门求助。他借钱给她，�
 
 - 中文：没有什么比得上城里的夏天。一个压力缠身的人，遇见一个看起来很漂亮的人。空气里有麻烦，你都能闻出来。而 Alexander 正独自一人——接下来让他自己说。
 - 用法：`There's nothing like` = 没有什么比得上，用来赞美，Burr 用一句悦耳的话打开一段丑闻，是叙述者一贯的冷幽默。`under stress` 在压力之下；两个 `someone` 把人写成类型而不是名字，暗示这种事发生在"某某人"身上太常见了。`There's trouble in the air, you can smell it` 把抽象的危险感写成嗅觉，`smell` 在这里不是字面闻到气味。
+- 单词：
+  - `stress` /stres/
+    - 词性：n. 不可数（压力这个意义上）；也作 vt. 及物
+    - 这里：`under stress` = 压力缠身
+    - 其他：动词 `stress sth` = 强调某事，`I'd like to stress that...` = 我想强调……；语言学里 `stress` 还指单词的「重音」，和「压力」是同一个词的不同引申
+  - `smell` /smel/
+    - 词性：vt./vi.；也作 n. 可数/不可数
+    - 变形：smell – smelled/smelt – smelled/smelt（规则，英式常用 smelt）
+    - 这里：比喻「闻出、察觉到」（麻烦的气息）
+    - 其他：字面当然是「闻到气味」；`smell` 作连系动词时后面接形容词，`this smells bad` = 这闻起来很糟，容易漏掉 `-s`
 
 **I hadn't slept in a week. I was weak, I was awake. You never seen a bastard orphan more in need of a break. Longing for Angelica. Missing my wife. That's when Miss Maria Reynolds walked into my life, she said:**
 
@@ -27,11 +37,32 @@ Hamilton 独自留在城里，Maria Reynolds 登门求助。他借钱给她，�
 
 - 中文：我丈夫在亏待我——打我、背叛我、虐待我……突然他就一走了之了。我没有办法再继续过下去了。
 - 用法：`do someone wrong` = 亏待、伤害某人。后面 `beatin' me, cheatin' me, mistreatin' me` 三个 `-in'` 押韵词层层递进，打、背叛、虐待，一层比一层严重。`means` 是钱或办法，`I don't have the means to go on` = 我没有办法/没有钱继续生活下去。
+- 单词：
+  - `means` /miːnz/
+    - 词性：n. 这里形式上是复数，但意思可以是单数（没有对应的单数形式 `mean` 表示这个意思）
+    - 这里：钱、经济能力/办法
+    - 其他：常见搭配 `a man of means` = 有钱人；`by all means` = 当然可以（礼貌答应请求），`by no means` = 绝不是，都是固定短语，别逐字翻译
+  - `cheat` /tʃiːt/
+    - 词性：vt./vi.
+    - 变形：cheat – cheated – cheated（规则）
+    - 这里：`cheatin' me` = 背叛我、对我不忠
+    - 其他：更常见的意思是「作弊、欺骗」，`cheat on an exam` = 考试作弊；`cheat on sb` 专指「出轨、对伴侣不忠」，和这句歌词里的用法一致
 
 **So I offered her a loan, I offered to walk her home, she said: "You're too kind, sir." I gave her thirty bucks that I had socked away, she lived a block away, she said: "This one's mine, sir."**
 
 - 中文：于是我提议借她一点钱，又提议送她回家，她说："您真是太好了，先生。"我给了她三十块钱，是我私下存着的，她就住在一个街区之外，她说："这是我（住的地方），先生。"
 - 用法：`sock away` = 偷偷存起来，`bucks` 口语里的美元。`You're too kind, sir` 里的 `sir` 保持着礼貌和距离，但这个距离几句话之后就会被拆掉。`This one's mine` 字面「这个是我的」，这里指「这（栋房子/这个门）就是我（住的地方）」。
+- 单词：
+  - `sock away` /sɑːk əˈweɪ/
+    - 词性：动词短语（及物）
+    - 变形：sock away – socked away – socked away（规则）
+    - 这里：偷偷存起来（钱）
+    - 其他：和名词「袜子」`a sock` 没什么关系，是个固定的口语短语动词，`sock money away` 和 `sock away money` 两种词序都可以
+  - `buck` /bʌk/
+    - 词性：n. 可数，口语
+    - 变形：复数 bucks
+    - 这里：美元
+    - 其他：`make a quick buck` = 轻松赚一笔钱；也有「公鹿」的意思（动物），和「钱」毫不相关，纯粹同形词
 
 **Then I said, "well, I should head back home," she turned red, she led me to her bed, let her legs spread and said: "Stay?" / Hey… / Hey…**
 
@@ -52,16 +83,42 @@ Hamilton 独自留在城里，Maria Reynolds 登门求助。他借钱给她，�
 
 - 中文：我希望我能说那是最后一次。我上一次也说过"这是最后一次"。它变成了一种消遣。进行了一个月之后，我收到一封信，寄信人是 James Reynolds 先生，更"妙"的是，信上写着：
 - 用法：`that was the last time` / `I said that last time` 两句几乎重复，暴露出这是一个自己骗自己的循环。`pastime` /ˈpæstaɪm/ 本义「消遣、业余爱好」，用在出轨这件事上显得格外轻佚、冷漠。`even better` 是反讽——接下来的内容明显是更糟糕的消息。
+- 单词：
+  - `pastime` /ˈpæstaɪm/
+    - 词性：n. 可数
+    - 变形：复数 pastimes
+    - 这里：消遣、习惯性做的事（讽刺地指出轨）
+    - 其他：常见搭配 `a favorite pastime` = 最喜欢的业余爱好，中性甚至带点悠闲的语气，用在这里形成反差
 
 **Dear Sir, I hope this letter finds you in good health, and in a prosperous enough position to put wealth in the pockets of people like me: down on their luck. You see, that was my wife who you decided to / Fuuuu— / Uh-oh! You made the wrong sucker a cuckold, so time to pay the piper for the pants you unbuckled. And hey, you can keep seein' my whore wife if the price is right: if not I'm telling your wife.**
 
 - 中文：亲爱的先生，希望这封信寄到时您身体健康，而且财力足够宽裕，能把一些财富送进像我这样运气不好的人的口袋里。您知道的，那位是我的妻子，而您决定……——（Hamilton：）我——操——（James：）哎哟！您这回挑错了对象戴绿帽子的人，所以是时候为您解开的裤子付账了。而且，嘿，您要是价钱给得对，还可以继续和我那位水性杨花的老婆见面；要是不给，我就去告诉您夫人。
 - 用法：这是一封敲诈信，前半段用极度正式、客套的书信体开头（`I hope this letter finds you in good health` 是英语书信的老套开场白），和后半段突然转为粗俗的威胁形成强烈反差，制造黑色幽默。`cuckold` /ˈkʌkəld/ 被戴绿帽子的丈夫；`pay the piper` 成语，字面「给吹笛人付钱」，引申为「为自己的行为付出代价」；`down on their luck` = 运气不好、潦倒。
+- 单词：
+  - `cuckold` /ˈkʌkəld/
+    - 词性：n. 可数；也可作 vt. 及物（较古旧的用法）
+    - 变形：复数 cuckolds；动词 cuckold – cuckolded – cuckolded（规则，但现在很少用动词形式）
+    - 这里：被戴绿帽子的丈夫
+    - 其他：是个比较老派、文学化的词，日常口语更常直接说 `cheat on sb`，很少有人会主动用 `cuckold` 这个名词
+  - `piper` /ˈpaɪpər/
+    - 词性：n. 可数
+    - 变形：复数 pipers
+    - 这里：`pay the piper` = 为自己的行为付出代价（字面「给吹笛人付钱」）
+    - 其他：这个成语来自格林童话《花衣魔笛手》的故事——欠债不还，最后代价会更惨痛；`pipe` 本身也常指「管道」，`piper` 单独出现时较少见，几乎只活在这句成语里
 
 **I hid the letter and I raced to her place, screamed "How could you?!" in her face, she said: "No, sir!" / Half dressed, apologetic. A mess, she looked pathetic, she cried: "Please don't go, sir!"**
 
 - 中文：我把信藏起来，冲到她的住处，对着她的脸大喊"你怎么能这样？！"，她说："不是的，先生！"——她衣衫不整，满口道歉，一团乱，看起来可怜极了，她哭着说："请别走，先生！"
 - 用法：`apologetic` /əˌpɑːləˈdʒetɪk/ 满口道歉的——她在为还没被证实的事提前道歉，这个细节本身就很可疑。`pathetic` 这里是「可怜」而非贬义的「可悲」，Hamilton 的叙述里带着被这份可怜打动的痕迹。
+- 单词：
+  - `apologetic` /əˌpɑːləˈdʒetɪk/
+    - 词性：adj.
+    - 这里：满口道歉的
+    - 其他：动词 `apologize` = 道歉，名词 `an apology` = 一句道歉；常见搭配 `apologetic about sth` = 对某事感到抱歉
+  - `pathetic` /pəˈθetɪk/
+    - 词性：adj.
+    - 这里：（字面）可怜的，引人怜悯的
+    - 其他：口语里也常是贬义，形容某事「差劲、可悲到让人瞧不起」，`that excuse is pathetic` = 那个借口太可笑了——同一个词到底是「惹人怜悯」还是「惹人嘲笑」，全看上下文和语气
 
 **So was your whole story a setup? / I don't know about any letter! / Stop crying Goddamnit, get up! / I didn't know any better / I am ruined...**
 

@@ -22,11 +22,32 @@ Eliza 独自读 Hamilton 的信。她曾经被他的句子建造过宫殿，现�
 
 - 中文：你和你的文字淹没了我的感官。你的句子让我毫无防备。
 - 用法：`flood` 字面是「水淹没」，这里转成比喻，形容被文字的洪流冲昏头。`defenseless` = 没有防御能力的，由 `defense` + `-less`（无……的）构成。
+- 单词：
+  - `flood` /flʌd/
+    - 词性：n. 可数；也作 vt./vi.
+    - 变形：动词 flood – flooded – flooded（规则）
+    - 这里：淹没（比喻用法）
+    - 其他：字面指「洪水」；`a flood of emails` = 大量涌入的邮件，是常见的比喻搭配
+  - `defenseless` /dɪˈfensləs/
+    - 词性：adj.
+    - 这里：毫无防备的
+    - 其他：`-less` 后缀 = 「没有……的」，同类词 `helpless`（无助的）、`careless`（粗心的）、`endless`（无尽的）
 
 **You built me palaces out of paragraphs, you built cathedrals.**
 
 - 中文：你用段落给我建了宫殿，你建了大教堂。
-- 用法：`build A out of B` 用 B 建造 A。`paragraph` 段落，`cathedral` /kəˈθiːdrəl/ 大教堂。词被说成建筑，这是她对 Hamilton 文字才华最后一次正面的赞美，后面马上会被拆穿。
+- 用法：`build A out of B` 用 B 建造 A。`paragraph` 段落，`cathedral` 大教堂。词被说成建筑，这是她对 Hamilton 文字才华最后一次正面的赞美，后面马上会被拆穿。
+- 单词：
+  - `cathedral` /kəˈθiːdrəl/
+    - 词性：n. 可数
+    - 变形：复数 cathedrals
+    - 这里：大教堂
+    - 其他：规模比一般的 `church`（教堂）大得多，通常是一个教区的主教堂
+  - `palace` /ˈpæləs/
+    - 词性：n. 可数
+    - 变形：复数 palaces
+    - 这里：宫殿
+    - 其他：也可比喻形容豪华的建筑，`a palace of a house` = 像宫殿一样的房子
 
 **I'm re-reading the letters you wrote me. I'm searching and scanning for answers in every line, for some kind of sign, and when you were mine the world seemed to burn. Burn.**
 
@@ -46,12 +67,38 @@ Eliza 独自读 Hamilton 的信。她曾经被他的句子建造过宫殿，现�
 **You and your words, obsessed with your legacy... Your sentences border on senseless, and you are paranoid in every paragraph how they perceive you, You, you, you…**
 
 - 中文：你和你的文字，执着于自己的身后名……你的句子近乎语无伦次，你在每一段里都疑神疑鬼，担心别人怎么看你，你，你，你……
-- 用法：`border on` 字面「挨着……的边界」，这里实指「几乎就是、接近于」，`senseless` = 没有意义的。`paranoid` /ˈpærənɔɪd/ 疑心重的、偏执的。结尾 `You, you, you…` 三个词独立成行，模仿她一边读信一边越来越愤怒、语无伦次地重复，为下一句「把自己从叙事中擦掉」蓄力。
+- 用法：`border on` 字面「挨着……的边界」，这里实指「几乎就是、接近于」，`senseless` = 没有意义的。`paranoid` 疑心重的、偏执的。结尾 `You, you, you…` 三个词独立成行，模仿她一边读信一边越来越愤怒、语无伦次地重复，为下一句「把自己从叙事中擦掉」蓄力。
+- 单词：
+  - `paranoid` /ˈpærənɔɪd/
+    - 词性：adj.
+    - 这里：疑心重的、偏执的
+    - 其他：名词 `paranoia` /ˌpærəˈnɔɪə/ = 多疑症、偏执，心理学里是正式诊断用词，日常也常夸张地用来形容「太多疑了」
+  - `border on` /ˈbɔːrdər ɑːn/
+    - 词性：动词短语，不及物（后接介词 on）
+    - 变形：border – bordered – bordered（规则）
+    - 这里：`border on senseless` = 近乎语无伦次
+    - 其他：字面指「（国家/地区）与……接壤」，`Canada borders on the US` = 加拿大与美国接壤
 
 **I'm erasing myself from the narrative. Let future historians wonder how Eliza reacted when you broke her heart. You have torn it all apart. I am watching it burn. Watching it burn.**
 
 - 中文：我正在把自己从这段叙事里擦掉。让未来的历史学家去猜测，当你伤了 Eliza 的心时，她是怎么反应的。你把一切都撕碎了。我看着它燃烧。看着它燃烧。
-- 用法：`narrative` /ˈnærətɪv/ 叙事，`erase from` 从……擦去——她拒绝给未来的历史学家一个反应，呼应全剧「谁来讲述你的故事」的主题。`wonder` 后接 `how` 从句，表示「想知道」。`tear apart` 撕碎。这里 `burn` 从比喻的「燃烧」变成字面——她真的在烧信。
+- 用法：`narrative` 叙事，`erase from` 从……擦去——她拒绝给未来的历史学家一个反应，呼应全剧「谁来讲述你的故事」的主题。`wonder` 后接 `how` 从句，表示「想知道」。`tear apart` 撕碎。这里 `burn` 从比喻的「燃烧」变成字面——她真的在烧信。
+- 单词：
+  - `narrative` /ˈnærətɪv/
+    - 词性：n. 可数/不可数
+    - 变形：复数 narratives
+    - 这里：叙事
+    - 其他：也常当形容词用，`narrative structure` = 叙事结构，是小说、电影评论里的常用词
+  - `erase` /ɪˈreɪs/
+    - 词性：vt. 及物
+    - 变形：erase – erased – erased（规则）
+    - 这里：`erase myself from...` = 把自己从……中擦掉
+    - 其他：最基础的意思是「擦除」（铅笔字、录音），也常比喻「抹去（记忆、历史）」
+  - `tear apart` /ter əˈpɑːrt/
+    - 词性：动词短语，及物
+    - 变形：tear – tore – torn（不规则）
+    - 这里：撕碎（比喻感情、关系的破裂）
+    - 其他：字面可以指真的撕碎东西；也常用于 `tear a family apart` = 让一个家庭分崩离析
 
 **The world has no right to my heart. The world has no place in our bed. They don't get to know what I said.**
 
@@ -61,7 +108,18 @@ Eliza 独自读 Hamilton 的信。她曾经被他的句子建造过宫殿，现�
 **I'm burning the memories, burning the letters that might have redeemed you. You forfeit all rights to my heart. You forfeit the place in our bed. You sleep in your office instead, with only the memories of when you were mine. I hope that you burn.**
 
 - 中文：我在烧掉这些记忆，烧掉那些本可能为你赎罪的信。你丧失了对我心的一切权利。你丧失了在我们床上的位置。你只能睡在你的办公室里，只剩下你曾是我的那段记忆陪着你。我希望你被烧。
-- 用法：`redeem` /rɪˈdiːm/ 赎回、弥补，`might have redeemed you` 是对过去可能性的虚拟语气，暗示信本可以挽回局面，但她选择烧掉。`forfeit` /ˈfɔːrfɪt/ 丧失（权利），常用于法律语境，呼应她像是在宣判。结尾 `I hope that you burn` 把全曲三层意思收在一起：字面烧信、曾经炽热的爱、以及近似「让你下地狱」(`burn in hell`) 的诅咒。
+- 用法：`redeem` 赎回、弥补，`might have redeemed you` 是对过去可能性的虚拟语气，暗示信本可以挽回局面，但她选择烧掉。`forfeit` 丧失（权利），常用于法律语境，呼应她像是在宣判。结尾 `I hope that you burn` 把全曲三层意思收在一起：字面烧信、曾经炽热的爱、以及近似「让你下地狱」(`burn in hell`) 的诅咒。
+- 单词：
+  - `redeem` /rɪˈdiːm/
+    - 词性：vt. 及物
+    - 变形：redeem – redeemed – redeemed（规则）
+    - 这里：弥补、挽回
+    - 其他：宗教语境里是「救赎」；商业语境里 `redeem a coupon/voucher` = 兑换一张优惠券，是完全不同的日常用法
+  - `forfeit` /ˈfɔːrfɪt/
+    - 词性：vt. 及物；也作 n. 可数
+    - 变形：forfeit – forfeited – forfeited（规则）
+    - 这里：丧失（权利）
+    - 其他：常用于法律、体育语境，`forfeit a match` = 弃权一场比赛；名词 `a forfeit` = 被没收的东西、罚金
 
 ---
 

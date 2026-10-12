@@ -17,6 +17,12 @@
 
 - 中文：怎么解释他爬到顶上？这个人不停。（背景合唱不断接应「不停！」）
 - 用法：`account for` = 解释原因。`rise to the top` = 升到顶点。`non-stop` 可以是形容词或副词，这里像一个判决。Ensemble 的「Non-stop!」像鼓点一样把标题钉进听者脑子里，后面每隔几句就会出现一次，不再逐条解释。
+- 单词：
+  - `account for` /əˈkaʊnt fɔːr/
+    - 词性：vi. 短语动词（不及物，后接 for）
+    - 变形：account – accounted – accounted（规则）
+    - 这里：解释（原因）
+    - 其他：财务语境里 `account for sth` = （数字上）占……的比例，`exports account for 30% of GDP` = 出口占 GDP 的 30%，和「解释」是完全不同的意思
 
 **Gentlemen of the jury, I'm curious, bear with me.**
 
@@ -26,7 +32,16 @@
 **Are you aware that we're making hist'ry? This is the first murder trial of our brand-new nation.**
 
 - 中文：你意识到我们正在创造历史吗？这是我们这个崭新国家的第一场谋杀审判。
-- `the first murder trial of our brand-new nation`：`trial` /ˈtraɪəl/ 审判。`brand-new` 崭新的，国家新到连第一场谋杀案都要被写成历史。
+- 单词：
+  - `trial` /ˈtraɪəl/
+    - 词性：n. 可数
+    - 变形：复数 trials
+    - 这里：审判
+    - 其他：也常指「试验、测试」，`a clinical trial` = 临床试验，`trial and error` = 试错法，和法律上的「审判」是完全不同的语境
+  - `aware` /əˈwer/
+    - 词性：adj.
+    - 这里：`are you aware that...` = 你意识到……吗
+    - 其他：常搭配 `be aware of sth`（意识到某事）、`become aware that...`（渐渐意识到），反义词 `unaware` 很常用，`unaware of the risk` = 没意识到风险
 
 **The liberty behind deliberation—**
 
@@ -36,7 +51,12 @@
 **I intend to prove beyond a shadow of a doubt with my assistant counsel—**
 
 - 中文：我打算排除一切合理怀疑地证明——由我的助理律师——
-- `beyond a shadow of a doubt` 排除合理怀疑之外，法律成语，表示证据极充分。`shadow of a doubt` 是那一点点怀疑
+- 单词：
+  - `doubt` /daʊt/
+    - 词性：n. 可数/不可数；也作 vt. 及物
+    - 变形：动词 doubt – doubted – doubted（规则）；注意 `b` 不发音
+    - 这里：`beyond a shadow of a doubt` = 毫无疑问地（法律用语）
+    - 其他：`no doubt` = 毫无疑问（副词短语）；`I doubt it` = 我怀疑这事（不太信），注意 `doubt` 当动词时，`doubt that...` 常带「不太相信」的意味，和中文「怀疑」语气接近
 
 **Co-counsel. Hamilton, sit down. Our client Levi Weeks is innocent. Call your first witness. That's all you had to say!**
 
@@ -51,7 +71,12 @@
 **Why do you assume you're the smartest in the room? Why do you assume you're the smartest in the room? Why do you assume you're the smartest in the room? Soon that attitude may be your doom!**
 
 - 中文：你为什么老觉得自己是房间里最聪明的人？你为什么老觉得自己是房间里最聪明的人？你为什么老觉得自己是房间里最聪明的人？这种态度总有一天会要了你的命！
-- 用法：`doom` /duːm/ 厄运、毁灭。连问三次同一个问题，是 Burr 式的「不动声色地步步紧逼」。
+- 用法：`doom` 厄运、毁灭。连问三次同一个问题，是 Burr 式的「不动声色地步步紧逼」。
+- 单词：
+  - `doom` /duːm/
+    - 词性：n. 不可数；也作 vt. 及物
+    - 这里：厄运、毁灭
+    - 其他：常用被动 `be doomed to do sth` = 注定要做某事（通常是坏结果），`doomed to fail` = 注定失败；形容词 `doomed` 也很常用
 
 **Why do you write like you're running out of time? Write day and night like you're running out of time? Ev'ry day you fight, like you're running out of time. Keep on fighting. In the meantime—**（Burr 唱，Ensemble 把每句原样重复一遍当回声）
 
@@ -67,11 +92,27 @@
 
 - 中文：说实话，这就是为什么公共服务好像在召唤我。
 - 用法：`calling` 字面「呼唤」，也有「天职」的意味（a calling = 使命），Hamilton 把从政说成是命运的召唤，不是野心。
+- 单词：
+  - `calling` /ˈkɔːlɪŋ/
+    - 词性：n. 可数（这里）
+    - 变形：复数 callings
+    - 这里：`seems to be calling me` = 好像在召唤我（当动名词）；也可做名词「天职、使命」
+    - 其他：动词原形 `call` 最基础的意思当然是「打电话、呼叫」；`a calling` 这个名词用法常和宗教/职业理想连用，`feel a calling to become a teacher` = 觉得当老师是自己的使命
 
 **I practiced the law, I practic'ly perfected it. I've seen injustice in the world and I've corrected it. Now for a strong central democracy, If not, then I'll be Socrates, Throwing verbal rocks at these mediocrities.**
 
 - 中文：我当了律师，而且差不多算是做到了完美。我在这世上见过不公，我把它纠正了。现在是为了一个强大的中央民主政体——做不到的话，那我就当苏格拉底，用言语当石头，砸向这些平庸之辈。
 - 用法：`practic'ly` = `practically`，省略音节保持节奏。`throwing verbal rocks at mediocrities` 是比喻，把辩论说成扔石头。苏格拉底因为不断质问雅典当权者而被处死，Hamilton 把自己比作苏格拉底，带着一点自负的自嘲。
+- 单词：
+  - `injustice` /ɪnˈdʒʌstɪs/
+    - 词性：n. 可数/不可数
+    - 这里：不公
+    - 其他：常见搭配 `social injustice` = 社会不公；`do sb an injustice` = 冤枉某人、对某人不公，是个固定搭配
+  - `mediocrity` /ˌmiːdiˈɑːkrəti/
+    - 词性：n. 可数（这里指人）/不可数（指平庸这个性质）
+    - 变形：复数 mediocrities
+    - 这里：平庸之辈
+    - 其他：形容词 `mediocre` 更常用，`a mediocre performance` = 一场平庸的表演，语气比「差」轻一点，但也绝不是夸奖
 
 **Hamilton, at the Constitutional Convention:**
 
@@ -87,16 +128,36 @@
 
 - 中文：他居然自己提出了一套政府方案！他自己构想的一整套新政府方案！
 - 用法：Burr 用第三人称叙述 Hamilton，带着难以置信的语气，背景的「Awwww! What? What?」是周围人集体的惊呼。
+- 单词：
+  - `indelicate` /ɪnˈdelɪkət/
+    - 词性：adj.
+    - 这里：不得体、不合适
+    - 其他：反义词 `delicate` 更常用，本义「精致、脆弱的」，也能形容「（话题）敏感、需要小心处理的」，`a delicate matter` = 一个敏感事务，和「不得体」是一组反义搭配
 
 **Talks for six hours! The convention is listless! / Bright young man… / Yo, who the f is this?**
 
 - 中文：一讲就是六个小时！整个会场都没精神了！（旁人窃窃私语）这小伙子挺聪明……（另一个人）这到底是哪位啊？
-- 用法：`listless` /ˈlɪstlɪs/ 无精打采、没精神。两句旁白代表现场两种反应：被才华打动的，和纯粹不耐烦的。
+- 用法：`listless` 无精打采、没精神。两句旁白代表现场两种反应：被才华打动的，和纯粹不耐烦的。
+- 单词：
+  - `listless` /ˈlɪstlɪs/
+    - 词性：adj.
+    - 这里：无精打采的
+    - 其他：常形容天气闷热带来的疲惫感，`a listless summer afternoon` = 一个让人没精神的夏日午后；和「list」（列表/清单）没有任何关系，纯粹长得像
 
 **Why do you always say what you believe? Why do you always say what you believe? Ev'ry proclamation guarantees free ammunition for your enemies!**
 
 - 中文：你为什么总是把你信的话全说出来？你为什么总是把你信的话全说出来？每一次公开宣告，都等于白送弹药给你的敌人！
 - 用法：`proclamation` 公开宣告、声明。`free ammunition` 字面「免费的弹药」，比喻把攻击自己的把柄主动送给对手——这是 Burr 一直在警告 Hamilton 的核心矛盾：说真话在政治上是危险的。
+- 单词：
+  - `proclamation` /ˌprɑːkləˈmeɪʃn/
+    - 词性：n. 可数
+    - 变形：复数 proclamations
+    - 这里：公开宣告、声明
+    - 其他：动词 `proclaim` 及物，`proclaim sth to be true` = 宣称某事为真，常带点「大张旗鼓宣布」的语气
+  - `ammunition` /ˌæmjəˈnɪʃn/
+    - 词性：n. 不可数
+    - 这里：`free ammunition` = 白送的攻击把柄
+    - 其他：字面就是「弹药」；政治/辩论语境里比喻「可以用来攻击对手的材料、证据」，是个很常用的引申义
 
 **Why do you write like it's going out of style? Write day and night like it's going out of style? Ev'ry day you fight like it's going out of style. Do what you do.**（Burr 和 Men 唱，All Women 跟着回应「Going out of style, hey!」）
 
@@ -111,7 +172,13 @@
 **Aaron Burr, sir. / It's the middle of the night. / Can we confer, sir? / Is this a legal matter? / Yes, and it's important to me. / What do you need?**
 
 - 中文：Aaron Burr 先生。/ 都三更半夜了。/ 我们能谈谈吗，先生？/ 这是个法律事务吗？/ 是的，而且对我很重要。/ 你需要什么？
-- 用法：`confer` /kənˈfɜːr/ 商议、磋商，比 `talk` 更正式，Hamilton 刻意用公务语气，好让 Burr 没法直接把他打发走。开场几句原样呼应第 2 曲两人第一次见面时的礼貌寒暄，但这次气氛完全不同。
+- 用法：`confer` 商议、磋商，比 `talk` 更正式，Hamilton 刻意用公务语气，好让 Burr 没法直接把他打发走。开场几句原样呼应第 2 曲两人第一次见面时的礼貌寒暄，但这次气氛完全不同。
+- 单词：
+  - `confer` /kənˈfɜːr/
+    - 词性：vi.（这里不及物，商议）；也作 vt. 及物
+    - 变形：confer – conferred – conferred（规则，重复尾字母 r）
+    - 这里：商议、磋商
+    - 其他：及物时意思完全不同——`confer a title/degree on sb` = 授予某人头衔/学位，是正式的「授予」，和「商议」没关系，要看后面跟什么结构
 
 **Burr, you're a better lawyer than me. / Okay.**
 
@@ -121,22 +188,48 @@
 **I know I talk too much, I'm abrasive. You're incredible in court. You're succinct, persuasive. My client needs a strong defense. You're the solution. / Who's your client? / The new U.S. Constitution? / No.**
 
 - 中文：我知道我话太多，太尖锐刺人。你在法庭上太厉害了。你简洁、有说服力。我的「当事人」需要一个强有力的辩护。你就是答案。/ 你的当事人是谁？/ 新的美国宪法？/ 不行。
-- 用法：`abrasive` /əˈbreɪsɪv/ 本义是磨损性的、粗糙的，用来形容人就是「说话尖锐、容易刺伤人」。`succinct` /səkˈsɪŋkt/ 简洁的。Hamilton 把「宪法」说成自己的「委托人」，是律师思维的延伸比喻。
+- 用法：`abrasive` 本义是磨损性的、粗糙的，用来形容人就是「说话尖锐、容易刺伤人」。`succinct` 简洁的。Hamilton 把「宪法」说成自己的「委托人」，是律师思维的延伸比喻。
+- 单词：
+  - `abrasive` /əˈbreɪsɪv/
+    - 词性：adj.；也作 n. 可数（研磨材料）
+    - 这里：（形容人）说话尖锐刺人
+    - 其他：字面是「有磨蚀性的」，`an abrasive cleaner` = 一种带有研磨颗粒的清洁剂（比如去污粉），从「磨损表面」引申到「磨损人的感情」
+  - `succinct` /səkˈsɪŋkt/
+    - 词性：adj.
+    - 这里：简洁的
+    - 其他：常搭配 `a succinct summary/answer` = 一个简洁的总结/回答，是个夸人表达能力好的褒义词，比 `brief`（简短）多了一层「说得精炼到位」的意思
 
 **Hear me out. / No way! / A series of essays, anonymously published, defending the document to the public. / No one will read it. / I disagree. / And if it fails? / Burr, that's why we need it.**
 
 - 中文：听我说完。/ 没门！/ 一系列匿名发表的文章，向公众为这份文件辩护。/ 没人会去读的。/ 我不同意。/ 那如果失败了呢？/ Burr，这正是我们需要它的原因。
-- 用法：`hear someone out` = 把话听完。`anonymously` /əˈnɑːnɪməsli/ 匿名地——历史上《联邦党人文集》确实是以笔名发表的。Hamilton 的逻辑有点悖论：越可能失败，越说明需要去做，这是他贯穿全剧的性格。
+- 用法：`hear someone out` = 把话听完。`anonymously` 匿名地——历史上《联邦党人文集》确实是以笔名发表的。Hamilton 的逻辑有点悖论：越可能失败，越说明需要去做，这是他贯穿全剧的性格。
+- 单词：
+  - `anonymously` /əˈnɑːnɪməsli/
+    - 词性：adv.
+    - 这里：匿名地
+    - 其他：形容词 `anonymous` 更常用，`an anonymous donor` = 一位匿名捐赠者；名词 `anonymity` = 匿名状态，三个词是一组
 
 **The constitution's a mess. / So it needs amendments. / It's full of contradictions. / So is independence. We have to start somewhere. / No. No way. / You're making a mistake. / Good night.**
 
 - 中文：这部宪法乱七八糟。/ 那正说明它需要修正案。/ 它满是自相矛盾的地方。/ 独立这件事本身也是。我们总得从某个地方开始。/ 不行。没门。/ 你正在犯一个错误。/ 晚安。
 - 用法：`amendments` 修正案，正是后来《权利法案》等宪法修正案的「修正案」。`So is independence` 省略结构 = `Independence is full of contradictions too`。Burr 用「晚安」直接把这场对话结束。
+- 单词：
+  - `amendment` /əˈmendmənt/
+    - 词性：n. 可数
+    - 变形：复数 amendments
+    - 这里：（宪法）修正案
+    - 其他：动词 `amend` 及物，`amend a law` = 修订一项法律，日常合同、文件里也常用，不限于宪法
 
 **Hey. What are you waiting for? What do you stall for? / What?**
 
 - 中文：嘿。你在等什么？你在拖延什么？/ 什么？
 - 语法：这里是全剧第一次有人把 `wait for it`（Burr 的人生信条、第 13 曲的标题）直接怼回 Burr 本人脸上。`stall for` = 为了拖延时间而……，`stall` 本义是（车辆、发动机）熄火，引申为「拖延」。
+- 单词：
+  - `stall` /stɔːl/
+    - 词性：vi./vt.（这里不及物）；也作 n. 可数
+    - 变形：stall – stalled – stalled（规则）
+    - 这里：`stall for (time)` = 拖延
+    - 其他：名词 `a stall` 常指市场里的「摊位」（`a market stall`）；汽车「熄火」也是这个词，`the engine stalled` = 发动机熄火了，和「拖延」是同一个「卡住、动不了」的核心意象
 
 **We won the war. What was it all for? Do you support this constitution? / Of course. / Then defend it. / And what if you're backing the wrong horse?**
 
@@ -147,16 +240,34 @@
 
 - 中文：Burr，我们为了「我们现在终于能去建立的这个国家」这个理念，读过书、打过仗、杀过人。你这一辈子就一次，拿出点骄傲站出来表态。我没法理解你怎么能一直站在旁边。
 - 语法：`the notion of a nation we now get to build` 里 `we now get to build` 是省略了关系词 that/which 的定语从句，修饰 `a nation`。`for once in your life` = 这辈子就这一次（破例一下）。`stand with pride` 和 `stand to the side` 押韵又对仗——「挺身而立」对「站在一边」，一句话把两种人生态度并排对比。
+- 单词：
+  - `notion` /ˈnoʊʃn/
+    - 词性：n. 可数
+    - 变形：复数 notions
+    - 这里：理念、想法
+    - 其他：和 `idea` 很接近，但 `notion` 常带点「还比较模糊、未必成熟」的意味，`I have no notion of what he means` = 我完全不懂他的意思，这个用法也很常见
 
 **I'll keep all my plans close to my chest.**（Ensemble 轻声回响「Wait for it, wait for it, wait…」）**I'll wait here and see which way the wind will blow. I'm taking my time, watching the afterbirth of a nation, watching the tension grow.**
 
 - 中文：我会把我所有的计划都紧紧捂在怀里，不让人看见。（背景合唱轻声回响："等着吧，等着吧，等……"）我会待在这儿，看风往哪边吹。我在慢慢等，看着一个新生国家的「后事」——看着张力一点点升高。
 - 用法：`close to one's chest` = 紧贴胸口藏起来，习语「不露底牌」。`which way the wind will blow` = 风往哪边吹，比喻观望局势再决定站队。`afterbirth` 本义是「胎盘」（分娩后排出的组织），用在「国家诞生」的比喻里带着一点生理上的恶心感，暗示 Burr 冷眼旁观、甚至嫌恶建国的过程。这整段原样把第 13 曲《Wait For It》的核心态度搬回这里，确认 Burr 从头到尾没变。
+- 单词：
+  - `chest` /tʃest/
+    - 词性：n. 可数
+    - 变形：复数 chests
+    - 这里：`close to one's chest` = 紧贴胸口（藏住底牌）
+    - 其他：也常指「箱子、柜子」，`a treasure chest` = 宝箱，`a chest of drawers` = 一个带抽屉的柜子，和「胸口」没关系，纯粹同形词
 
 **I am sailing off to London. I'm accompanied by someone who always pays. I have found a wealthy husband who will keep me in comfort for all my days. He is not a lot of fun, but there's no one who can match you for turn of phrase. My Alexander.**
 
 - 中文：我要坐船去伦敦了。陪着我的人永远负责付钱。我找到了一个有钱的丈夫，他会让我一辈子过得舒舒服服。他不算有趣，但说到措辞巧妙，没人比得上你。我的 Alexander。
 - 用法：`turn of phrase` = 措辞方式、说话的技巧，Angelica 承认自己嫁的是财富和安稳，但在语言和心智上，真正能匹配她的人只有 Hamilton——这句延续第 11 曲《Satisfied》里她选择理性而不是爱情的决定。`My Alexander` 这个称呼她始终没有真正放下。
+- 单词：
+  - `accompany` /əˈkʌmpəni/
+    - 词性：vt. 及物
+    - 变形：accompany – accompanied – accompanied（规则，y→i）
+    - 这里：`accompanied by sb` = 由某人陪同
+    - 其他：音乐里也常用，`accompany sb on the piano` = 为某人钢琴伴奏；名词 `accompaniment` = 伴奏、伴随物
 
 **Angelica. / Don't forget to write.**
 
@@ -172,6 +283,12 @@
 
 - 中文：Alexander 和 James Madison、John Jay 联手，写了一系列文章为新生的美国宪法辩护，这套文章后来被称为《联邦党人文集》。最初的计划是写满二十五篇，三个人平均分摊。结果他们一共写了八十五篇，只用了六个月。John Jay 写了五篇就病倒了。James Madison 写了二十九篇。Hamilton 一个人写了剩下的五十一篇！
 - 用法：这是全剧少见的、直接用台词报出真实历史数据的段落（这些数字都是真实的）。`in the span of six months` = 在六个月这段时间里。最后一句用惊叹号强调 Hamilton 的产出量之夸张，直接证明了 Burr 一直问的「你为什么写得像时间要用完一样」。
+- 单词：
+  - `span` /spæn/
+    - 词性：n. 可数（这里）；也作 vt. 及物
+    - 变形：复数 spans；动词 span – spanned – spanned（规则，重复尾字母 n）
+    - 这里：`the span of six months` = 六个月这段时间
+    - 其他：动词常指「跨越（时间/空间）」，`a career spanning three decades` = 一段跨越三十年的职业生涯；桥梁工程里 `span` 也指「跨度」
 
 **How do you write like you're running out of time? Write day and night like you're running out of time? Ev'ry day you fight, like you're running out of time, like you're running out of time, are you running out of time?**
 
@@ -192,6 +309,11 @@
 
 - 中文：财政部还是国务院？/ 我知道这是个不小的请求，/ 财政部还是国务院？/ 要你离开你熟悉的那个世界……/ 长官，你是想让我管财政部还是国务院？/ 财政部。/ 走吧。
 - 用法：Hamilton 急躁地在 Washington 还没说完整句话时就反复打断，连问「Treasury or State?」，等不及对方把话讲完——这个急性子的小细节呼应了接下来几曲对他「停不下来」的描写。`a lot to ask` = 一个不小的请求。
+- 单词：
+  - `treasury` /ˈtreʒəri/
+    - 词性：n. 可数（这里指机构名）；也可不可数（指「国库」这个概念）
+    - 这里：财政部
+    - 其他：首字母大写 `the Treasury` 专指美国/英国的财政部这个机构；小写 `a treasury of sth` 还能比喻「宝库」，`a treasury of folk tales` = 一座民间故事的宝库
 
 **Alexander… / I have to leave. / Alexander— / Look around, look around at how lucky we are to be alive right now.**
 

@@ -12,7 +12,11 @@ Burr 写信质问 Hamilton 为什么偏偏背书了自己的死敌 Jefferson，�
 
 - 中文：Hamilton 这样一个傲慢的、移民的、孤儿的、私生子的、妓女的儿子，怎么会偏偏去背书 Thomas Jefferson——他的敌人，一个他从一开始就厌恶的人——就为了不让我赢？
 - 语法：这句模仿了第 1 曲 Burr 自己开场的句式「How does a bastard, orphan...grow up to be a hero and a scholar?」，当年 Burr 用这串羞辱性的同位语介绍 Hamilton 的出身，这里他把同一串词原样甩回给 Hamilton，只是加了 `arrogant`（傲慢的）。`just to` = 仅仅为了，`keep me from winning` = 阻止我赢。
-- `whoreson` /ˈhɔːrsʌn/ 古骂，字面是「妓女的儿子」，比 `bastard` 更像莎剧用语，是开场那句脏话在结局的回声。
+- 单词：
+  - `whoreson` /ˈhɔːrsʌn/
+    - 词性：n. 可数，古骂
+    - 这里：字面是「妓女的儿子」
+    - 其他：现代英语基本不用了，只在莎士比亚剧本、历史剧里出现，比 `bastard` 更古旧、更戏剧化
 
 **I wanna be in the room where it happens— The room where it happens. The room where it happens. You've kept me from— the room where it happens. For the last time.**
 
@@ -27,17 +31,44 @@ Burr 写信质问 Hamilton 为什么偏偏背书了自己的死敌 Jefferson，�
 **Now you call me "amoral," a "dangerous disgrace," if you've got something to say, name a time and place, face to face. I have the honor to be Your Obedient Servant, A dot Burr.**
 
 - 中文：如今你叫我「没有道德」，叫我「危险的耻辱」，如果你有什么话要说，那就定个时间、定个地点，当面说清楚。我有幸是您顺从的仆人，A·Burr。
-- 用法：`amoral` /eɪˈmɔːrəl/ 是「不属于道德范围、没有道德感」，不要和 `immoral`（不道德）混——`immoral` 是做了坏事，`amoral` 是根本不在道德坐标系里，这正是 Hamilton 对 Burr 的核心控诉：没有信念。`name a time and place` 是决斗邀请的礼貌版说法。`I have the honor to be Your Obedient Servant` 是当时信件的标准结尾，类似中文书信「此致敬礼」，不表示真的服从，`A dot Burr` 的 `dot` 就是句点，签名缩写念作「A·Burr」。
+- 用法：`amoral` 是「不属于道德范围、没有道德感」，不要和 `immoral`（不道德）混——`immoral` 是做了坏事，`amoral` 是根本不在道德坐标系里，这正是 Hamilton 对 Burr 的核心控诉：没有信念。`name a time and place` 是决斗邀请的礼貌版说法。`I have the honor to be Your Obedient Servant` 是当时信件的标准结尾，类似中文书信「此致敬礼」，不表示真的服从，`A dot Burr` 的 `dot` 就是句点，签名缩写念作「A·Burr」。
+- 单词：
+  - `amoral` /eɪˈmɔːrəl/
+    - 词性：adj.
+    - 这里：不属于道德范围、没有道德感
+    - 其他：拼写和 `immoral`（不道德的）只差一个前缀，意思却不同——`im-` 是「不」，`a-` 这里是「无、脱离」，`amoral` 强调「根本不在这套评判体系里」，而不是「做错了」
 
 **Mr. Vice President, I am not the reason no one trusts you. No one knows what you believe. I will not equivocate on my opinion, I have always worn it on my sleeve.**
 
 - 中文：副总统先生，没人信任你，原因不在我。没人知道你到底相信什么。我绝不会在自己的观点上含糊其词，我向来把它摆在明面上。
-- 语法：`I am not the reason no one trusts you` 里 `the reason` 后面省了 `why`，口语里常见这种省略，补全是 `the reason why no one trusts you`。`equivocate` /ɪˈkwɪvəkeɪt/ 含糊其词、两面讨好——这正是 Hamilton 指责 Burr 的核心毛病。`wear something on one's sleeve` 字面「把……戴在袖子上」，是「毫不掩饰地表现出来」的习惯说法。
+- 语法：`I am not the reason no one trusts you` 里 `the reason` 后面省了 `why`，口语里常见这种省略，补全是 `the reason why no one trusts you`。`equivocate` 含糊其词、两面讨好——这正是 Hamilton 指责 Burr 的核心毛病。`wear something on one's sleeve` 字面「把……戴在袖子上」，是「毫不掩饰地表现出来」的习惯说法。
+- 单词：
+  - `equivocate` /ɪˈkwɪvəkeɪt/
+    - 词性：vi. 不及物
+    - 变形：equivocate – equivocated – equivocated（规则）
+    - 这里：含糊其词、两面讨好
+    - 其他：名词 `equivocation` = 含糊其词的说法；和 `ambiguous`（本身意思模糊的）不同，`equivocate` 强调「故意说得模糊，好留后路」
+  - `sleeve` /sliːv/
+    - 词性：n. 可数
+    - 变形：复数 sleeves
+    - 这里：`wear ... on one's sleeve` 习语里的「袖子」
+    - 其他：常见搭配 `roll up one's sleeves` = 卷起袖子（准备动手干活）；`have something up one's sleeve` = 另有锦囊妙计，字面「袖子里藏着东西」
 
 **Even if I said what you think I said, you would need to cite a more specific grievance. Here's an itemized list of thirty years of disagreements. / Sweet Jesus.**
 
 - 中文：就算我真说了你以为我说过的话，你也得指出一个更具体的委屈才行。这里有一份清单，列着我们三十年来的所有分歧。/（Burr）我的老天。
-- 用法：`cite` /saɪt/ 引用、举出。`grievance` /ˈɡriːvəns/ 委屈、不满，常用于正式申诉的语境。`itemized list` 逐项列出的清单，`itemize` 把总体拆成一条一条——Hamilton 典型的做法：用密度和细节压倒对方，呼应他从第 1 曲起「用句子的密度证明自己」的说话方式（见 [00](00_使用说明与通用知识.md)）。
+- 用法：`cite` 引用、举出。`grievance` 委屈、不满，常用于正式申诉的语境。`itemized list` 逐项列出的清单，`itemize` 把总体拆成一条一条——Hamilton 典型的做法：用密度和细节压倒对方，呼应他从第 1 曲起「用句子的密度证明自己」的说话方式（见 [00](00_使用说明与通用知识.md)）。
+- 单词：
+  - `cite` /saɪt/
+    - 词性：vt. 及物
+    - 变形：cite – cited – cited（规则）
+    - 这里：举出、指出（具体的例子/理由）
+    - 其他：学术写作里常用，「引用（文献）」，`cite a source` = 引用一个出处；和同音词 `site`（地点）、`sight`（视力）拼写不同但读音一样，是常见的听写陷阱
+  - `grievance` /ˈɡriːvəns/
+    - 词性：n. 可数
+    - 变形：复数 grievances
+    - 这里：委屈、不满
+    - 其他：常用于正式申诉的语境，`file a grievance` = 正式提出申诉，职场、工会语境里很常见
 
 **Hey, I have not been shy. I am just a guy in the public eye tryin' to do my best for our republic. I don't wanna fight, but I won't apologize for doing what's right. / I have the honor to be Your Obedient Servant, A dot Ham.**
 
@@ -47,7 +78,17 @@ Burr 写信质问 Hamilton 为什么偏偏背书了自己的死敌 Jefferson，�
 **Careful how you proceed, good man. Intemperate indeed, good man. Answer for the accusations I lay at your feet or prepare to bleed, good man.**
 
 - 中文：接下来怎么走，你最好小心点，好先生。你这话说得真够放肆的，好先生。要么回应我摆在你脚下的这些指控，要么就准备流血吧，好先生。
-- 用法：`proceed` /prəˈsiːd/ 继续、往下进行，比 `go on` 更正式，符合书信文体。`intemperate` /ɪnˈtempərət/ 言辞过激、不克制的，和前面 Burr 自称「I am slow to anger」形成对照——他嘴上说自己不轻易发怒，这里却指责对方言辞过激，其实是在逼近摊牌。`lay something at someone's feet` 字面「把……放到某人脚下」，是「把责任/指控归到某人身上」的说法。`good man` 反复出现在每句句尾，表面客气，实际带着压迫感的讽刺，是一种礼貌外壳下的威胁。
+- 用法：`proceed` 继续、往下进行，比 `go on` 更正式，符合书信文体。`intemperate` 言辞过激、不克制的，和前面 Burr 自称「I am slow to anger」形成对照——他嘴上说自己不轻易发怒，这里却指责对方言辞过激，其实是在逼近摊牌。`lay something at someone's feet` 字面「把……放到某人脚下」，是「把责任/指控归到某人身上」的说法。`good man` 反复出现在每句句尾，表面客气，实际带着压迫感的讽刺，是一种礼貌外壳下的威胁。
+- 单词：
+  - `proceed` /prəˈsiːd/
+    - 词性：vi. 不及物
+    - 变形：proceed – proceeded – proceeded（规则）
+    - 这里：继续、往下进行
+    - 其他：名词 `proceedings` = （法律）诉讼程序；`proceeds` /ˈproʊsiːdz/（重音位置和读音都不同）则是「（活动/销售的）收益」，拼写几乎一样但意思、读音都不同，很容易搞混
+  - `intemperate` /ɪnˈtempərət/
+    - 词性：adj.
+    - 这里：言辞过激、不克制的
+    - 其他：反义词 `temperate` = 克制的、温和的（也常指「温带气候」），`in-` 否定前缀加上去就是这个词的反义
 
 **Burr, your grievance is legitimate. I stand by what I said, every bit of it. You stand only for yourself. It's what you do. I can't apologize because it's true.**
 

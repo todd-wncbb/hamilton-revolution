@@ -11,18 +11,41 @@ Adams 当总统，把 Hamilton 赶出权力。Hamilton 写文章骂总统，自�
 **How does Hamilton, the short-tempered, protean creator of the Coast Guard, Founder of the New York Post, ardently abuse his cab'net post, destroy his reputation? Welcome, folks, to The Adams administration!**
 
 - 中文：Hamilton 这个急性子、变化多端的海岸警卫队创立者，《纽约邮报》的创办人，是怎么激烈地滥用他的内阁职位，毁掉自己名声的？欢迎各位，来到亚当斯政府！
-- 语法：整句又是 Burr 招牌的修辞问句，`How does Hamilton ... destroy his reputation?` 中间塞进一长串同位语（`the short-tempered, protean creator of the Coast Guard, Founder of the New York Post`）才接上动词 `destroy`，读的时候先跳过修饰语找主干。`short-tempered` 急性子；`protean` /ˈproʊtiən/ 像希腊海神普罗透斯一样善变。`ardently` /ˈɑːrdntli/ 激烈地；`abuse` 这里是「滥用」。
-- `cab'net post` = cabinet post 内阁职位
+- 语法：整句又是 Burr 招牌的修辞问句，`How does Hamilton ... destroy his reputation?` 中间塞进一长串同位语（`the short-tempered, protean creator of the Coast Guard, Founder of the New York Post`）才接上动词 `destroy`，读的时候先跳过修饰语找主干。
+- 单词：
+  - `protean` /ˈproʊtiən/
+    - 词性：adj.
+    - 这里：变化多端的，像希腊海神普罗透斯一样善变
+    - 其他：源自希腊神话的海神 Proteus，在正式/文学语境里形容「极度多变、难以捉摸」的人或事物，比日常词 `versatile` 更书面
+  - `abuse` /əˈbjuːs/
+    - 词性：n. 不可数（名词读 /əˈbjuːs/）；vt. 及物（动词读 /əˈbjuːz/，这里是动词用法）
+    - 变形：abuse – abused – abused（规则）
+    - 这里：（动词）滥用（职位）
+    - 其他：名词和动词发音不同（s 结尾 vs z 结尾），是英语里「名词清音、动词浊音」的常见规律之一；也常指「虐待」，`child abuse` = 虐待儿童，语境完全不同
+  - `cab'net post`
+    - 这里：`cabinet post` 的省读，= 内阁职位
 
 **Jefferson's the runner-up, which makes him the Vice President. / Washington can't help you now, no more mister nice President.**
 
 - 中文：Jefferson 是（上届大选的）第二名，这让他当上了副总统。Washington 现在帮不了你了，没有好好先生总统可以靠了。
-- 用法：`runner-up` 竞选中的第二名；这是当时美国的真实制度——得票第二多的人自动成为副总统，不是奖励，而是规则漏洞。`no more mister nice President` 改自成语 `no more Mr. Nice Guy`：我（们）不再当好好先生了，这里连带讽刺 Washington 式的宽厚也随他下台一起消失了。
+- 用法：这是当时美国的真实制度——得票第二多的人自动成为副总统，不是奖励，而是规则漏洞。`no more mister nice President` 改自成语 `no more Mr. Nice Guy`：我（们）不再当好好先生了，这里连带讽刺 Washington 式的宽厚也随他下台一起消失了。
+- 单词：
+  - `runner-up` /ˈrʌnər ʌp/
+    - 词性：n. 可数
+    - 变形：复数 runners-up（复数变化加在 `runner` 后面，不是整个词后面，是容易写错的点）
+    - 这里：（大选）第二名
+    - 其他：比赛、选秀节目里常用，`the runner-up` 常指「亚军」，和冠军 `the winner`/`champion` 相对
 
 **Adams fires Hamilton. Privately calls him "creole bastard" in his taunts. / Say what?!**
 
 - 中文：Adams 把 Hamilton 开除了。还在私下嘲讽里叫他「克里奥尔私生子」。——什么？！
-- 用法：`taunt` /tɔːnt/ 嘲讽。`creole` 在这里被 Adams 当作出身侮辱，指向 Hamilton 的加勒比背景，和 Burr 第一曲里的 "son of a whore and a Scotsman" 呼应——攻击 Hamilton 的人总绕不开他的出身。
+- 用法：`creole` 在这里被 Adams 当作出身侮辱，指向 Hamilton 的加勒比背景，和 Burr 第一曲里的 "son of a whore and a Scotsman" 呼应——攻击 Hamilton 的人总绕不开他的出身。
+- 单词：
+  - `taunt` /tɔːnt/
+    - 词性：n. 可数；也作 vt. 及物
+    - 变形：复数 taunts；动词 taunt – taunted – taunted（规则）
+    - 这里：嘲讽
+    - 其他：常用于体育比赛里球迷/选手之间的「叫骂、挑衅」，`taunt an opponent` = 嘲讽对手，带着挑逗对方发怒的意味
 
 **Hamilton publishes his response. / Sit down, John, you fat motherf— / Hamilton is out of control.**
 
@@ -37,8 +60,18 @@ Adams 当总统，把 Hamilton 赶出权力。Hamilton 写文章骂总统，自�
 **Hamilton's a host unto himself. As long as he can hold a pen, he's a threat. Let's let him know what we know.**
 
 - 中文：Hamilton 一个人就是一整支军队。只要他还握得住笔，他就是个威胁。让我们让他知道，我们知道些什么。
-- 用法：`a host unto himself` 字面「他本身就是一支军队」，`host` 这里是古语里的「军队」；Jefferson 怕的从来不是 Hamilton 的官职，而是他的笔。最后一句 `let him know what we know` 直接给出下一曲的标题《We Know》，是预告。
-- `host` /hoʊst/ 这里是「大军、群众」的古义，不是「主人、主持人」
+- 用法：Jefferson 怕的从来不是 Hamilton 的官职，而是他的笔。最后一句 `let him know what we know` 直接给出下一曲的标题《We Know》，是预告。
+- 单词：
+  - `host` /hoʊst/
+    - 词性：n. 可数（这里是古义「大军」）
+    - 变形：复数 hosts
+    - 这里：`a host unto himself` = 他一个人就是一整支军队，`host` 这里是古语里的「军队、群众」
+    - 其他：现代最常见的意思是「主人（招待客人的人）」或「主持人（节目主持）」，`host a party`、`a talk show host`；生物学里 `host` 还指「寄主」，和这里的古义几乎没人再用了
+  - `threat` /θret/
+    - 词性：n. 可数
+    - 变形：复数 threats
+    - 这里：威胁
+    - 其他：动词 `threaten` vt. = 威胁，`threaten sb with sth` = 用某事威胁某人；形容词 `threatening` = 带威胁性的
 
 ---
 

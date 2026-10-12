@@ -12,9 +12,21 @@ Burr 介绍 Schuyler 家的三个女儿溜去城里看革命。Peggy 犹豫，An
 
 - 中文：有钱人最爱做的，就是进城和穷人挤在一起猎奇。他们坐着马车过来，呆呆地看广场上的学生，就为了听他们说话。拿 Philip Schuyler 来说：这人很有钱。
 - 语法：`nothing ... more than` = 没有什么比……更。`slum it` = 有钱人故意去穷地方体验，带贬义。`take X` 这里是"拿……来说"的话题引入句式，不是"拿走"。
-- `gawk` /ɡɔːk/ 呆呆地看
-- `the common` 城镇公共草地
-- `loaded` 俚语：非常有钱，`The man is loaded.`
+- 单词：
+  - `gawk` /ɡɔːk/
+    - 词性：vi. 不及物
+    - 变形：gawk – gawked – gawked（规则）
+    - 这里：呆呆地看
+    - 其他：常接 `at`，`gawk at sth/sb` = 呆呆地盯着看，带贬义，比 `stare`（盯着看）更强调一种傻乎乎、没礼貌的张望
+  - `common` /ˈkɑːmən/
+    - 词性：n. 可数（这里，`the common` 特指「城镇公共草地」，常加 `the`）
+    - 这里：城镇公共草地
+    - 其他：形容词最常见是「普通的、共同的」，`common sense`（常识，后面 Angelica 读的那本书就叫这个）、`in common` = 有共同点
+  - `loaded` /ˈloʊdɪd/
+    - 词性：adj.（这里，口语俚语「非常有钱」；也是动词 load 的过去分词）
+    - 变形：动词 load – loaded – loaded（规则）
+    - 这里：非常有钱
+    - 其他：字面「装载满的」，`a loaded truck` = 装满货的卡车；也常形容「暗藏陷阱的（问题）」，`a loaded question` = 别有用心的问题
 
 **Uh-oh, but little does he know that his daughters, Peggy, Angelica, Eliza sneak into the city just to watch all the guys at— Work, work!**
 
@@ -55,12 +67,23 @@ Burr 介绍 Schuyler 家的三个女儿溜去城里看革命。Peggy 犹豫，An
 
 - 中文：没有什么比得上城里的夏天。一个人匆匆忙忙，旁边站着一个好看的人。打扰了，小姐，我知道这不好笑，但你身上的香水味闻起来像你爹很有钱。你穿着时髦的高跟鞋跑来城里"体验生活"，是在找一个穷小子来给你灌输理想吗？
 - 语法：`Why you slummin'...` 省略了助动词 `are`，完整是 `Why are you slummin'...`，口语里常省掉。`urchin` 本指街头流浪儿，这里 Burr 用来讽刺地指自己这类没钱但有想法的年轻人。
-- `urchin` /ˈɜːrtʃɪn/ 街头流浪儿；穷小子
+- 单词：
+  - `urchin` /ˈɜːrtʃɪn/
+    - 词性：n. 可数
+    - 变形：复数 urchins
+    - 这里：街头流浪儿；穷小子
+    - 其他：也可以指「海胆」（`sea urchin`），和「流浪儿」字面没关系，纯粹同形
 
 **Burr, you disgust me. / Ah, so you've discussed me. I'm a trust fund, baby, you can trust me!**
 
 - 中文：Burr，你让我反感。——啊，这么说你讨论过我了。我是个信托基金，宝贝，你可以信任我！
 - 语法：`so you've discussed me` 是 Burr 故意曲解——Angelica 只是表达反感，并没有说明自己讨论过他，但 Burr 把"你对我有看法"硬解读成"你一直在议论我"，借此得意地接话。`trust fund` 和 `trust me` 用同一个词根 `trust` 玩文字游戏，暗示他家境优渥、油嘴滑舌。
+- 单词：
+  - `trust fund` /trʌst fʌnd/
+    - 词性：n. 可数短语
+    - 变形：复数 trust funds
+    - 这里：信托基金，暗示 Burr 家境优渥
+    - 其他：`a trust fund baby/kid` = 靠家族信托基金过日子的富二代，带一点讽刺意味
 
 **I've been reading Common Sense by Thomas Paine. So men say that I'm intense or I'm insane. You want a revolution? I want a revelation so listen to my declaration:**
 
@@ -71,6 +94,16 @@ Burr 介绍 Schuyler 家的三个女儿溜去城里看革命。Peggy 犹豫，An
 
 - 中文：我们认为这些真理不言自明：人人生而平等。等我见到托马斯·杰斐逊的时候，我要迫使他把女人也写进续篇！
 - 用法：前一句直接引用《独立宣言》原文（`self-evident` 不言自明），Angelica 立刻接上一句挑战：这句话里的 `all men` 到底算不算女人？`the sequel` 把《独立宣言》说成一本书的第一部，续集理应把女人写进去；`compel someone to do` = 强迫某人做。
+- 单词：
+  - `self-evident` /self ˈevɪdənt/
+    - 词性：adj.
+    - 这里：不言自明
+    - 其他：直接引用《独立宣言》的原句，日常口语里较少用，更常见于哲学/法律讨论里形容"不需要证明就成立的道理"
+  - `compel` /kəmˈpel/
+    - 词性：vt. 及物
+    - 变形：compel – compelled – compelled（规则，重复尾字母 l）
+    - 这里：迫使
+    - 其他：常用被动 `feel compelled to do sth` = 觉得不得不做某事；形容词 `compelling` = 引人入胜的、有说服力的，和"强迫"的意思已经分得比较远
 
 **Look around, look around at how lucky we are to be alive right now! History is happening in Manhattan and we just happen to be in the greatest city in the world!**
 

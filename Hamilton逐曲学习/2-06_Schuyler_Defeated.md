@@ -12,6 +12,17 @@ Philip 读报纸：外祖父 Philip Schuyler 的参议员席位被 Burr 抢走�
 
 - 中文：你看！外公上报纸了！"战争英雄 Philip Schuyler 把参议员席位输给了年轻的暴发户 Aaron Burr！"外公刚刚失去了他的参议员席位。
 - 用法：这是报纸标题常用的夸张措辞，`upstart` /ˈʌpstɑːrt/ 指突然冒出来、让旧权势人物不服的新人。`lose one's seat` = 竞选连任失败，`seat` 是议会席位，不是座椅。
+- 单词：
+  - `upstart` /ˈʌpstɑːrt/
+    - 词性：n. 可数；也可作 adj.
+    - 变形：复数 upstarts
+    - 这里：突然冒出来、让旧权势人物不服的新人
+    - 其他：带明显贬义，暗示这个人「爬得太快、不够资历」，常用于形容政治/商业新贵
+  - `seat` /siːt/
+    - 词性：n. 可数
+    - 变形：复数 seats
+    - 这里：`lose one's seat` = 议会席位
+    - 其他：日常最常见的意思是「座位」；`take a seat` = 请坐；`a seat on the board` = 董事会席位，和这里议会席位的用法是同一个引申
 
 **Sometimes that's how it goes. / Daddy's gonna find out any minute. / I'm sure he already knows.**
 
@@ -36,12 +47,28 @@ Philip 读报纸：外祖父 Philip Schuyler 的参议员席位被 Burr 抢走�
 **Excuse me? / Oh, Wall Street thinks you're great. You'll always be adored by the things you create. But upstate, / Wait. / People think you're crooked! And Schuyler's seat was up for grabs, so I took it.**
 
 - 中文：（Hamilton：）你说什么？（Burr：）哦，华尔街觉得你很了不起。你创造出来的东西会一直被人崇拜。可是在纽约州北部——（Hamilton：）等等。（Burr：）人们觉得你腐败狡诈！而且 Schuyler 的席位正好空出来，所以我就拿下了。
-- 用法：`Excuse me?` 这里不是礐貌地请对方重复，而是「你刚才说什么？」带着被冒犯的意味。`crooked` /ˈkrʊkɪd/ 字面「弯曲的」，引申为「不正直、腐败的」。`up for grabs` 俚语，「任人争抢、谁拿到就是谁的」——Burr 把抢走 Hamilton 岳父席位的行为说得毫无愧疚，纯粹是机会主义。
+- 用法：`Excuse me?` 这里不是礼貌地请对方重复，而是「你刚才说什么？」带着被冒犯的意味。`crooked` /ˈkrʊkɪd/ 字面「弯曲的」，引申为「不正直、腐败的」。`up for grabs` 俚语，「任人争抢、谁拿到就是谁的」——Burr 把抢走 Hamilton 岳父席位的行为说得毫无愧疚，纯粹是机会主义。
+- 单词：
+  - `crooked` /ˈkrʊkɪd/
+    - 词性：adj.
+    - 这里：不正直的、腐败的
+    - 其他：字面也常指物理上「弯曲的、歪的」，`a crooked smile` = 一个歪歪的笑容，两个意思都很常见，要看搭配的名词
+  - `grab` /ɡræb/
+    - 词性：vt. 及物；也作 n.
+    - 变形：grab – grabbed – grabbed（规则，重复尾字母 b）
+    - 这里：`up for grabs` = 任人争抢
+    - 其他：日常口语常用来说「随手拿、抓住」，`grab a coffee` = 顺便去买杯咖啡，语气很随意
 
 **I've always considered you a friend. / I don't see why that has to end! / You changed parties to run against my father-in-law. / I changed parties to seize the opportunity I saw. I swear, your pride will be the death of us all! Beware: it goeth before the fall…**
 
 - 中文：（Hamilton：）我一直把你当朋友。（Burr：）我不明白为什么那一定要结束！（Hamilton：）你换党就是为了跟我岳父对着干。（Burr：）我换党是因为我看到了机会，就抓住了。我敢说，你的骄傲会是我们所有人的死因！小心点：骄傲总是先于跌落而来……
 - 语法：`seize the opportunity` = 抓住机会，`seize` 比 `take` 更强调主动、迅速。结尾 `pride goeth before the fall`（骄傲先于跌落）是《圣经·箴言》里的古英语句式（`goeth` 是 `goes` 的古体），完整版常说 `Pride goeth before destruction, and a haughty spirit before a fall`——Burr 把一句圣经警句原样甩给 Hamilton，这既是预言，也是全剧最早点出 Hamilton 悲剧性缺陷（骄傲）的台词之一。
+- 单词：
+  - `seize` /siːz/
+    - 词性：vt. 及物
+    - 变形：seize – seized – seized（规则）
+    - 这里：抓住（机会）
+    - 其他：也常指「强行夺取、查封」，`police seized the drugs` = 警方查扣了毒品；注意拼写是 `ei`，很多人会手滑写成 `sieze`
 
 
 ---

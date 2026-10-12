@@ -17,19 +17,45 @@
 
 - 中文：我从没见过将军这么灰心。我接管了他所有的书信往来。国会写信说："乔治，进攻英军。"我回信说，我们已经落到吃马的地步。当地商人不肯给我们装备和援助，他们只收英国人的钱——那就只好"唱一首六便士的歌"（意思是什么都做不了，只能干看着）。
 - 语法：`have never seen` 现在完成时，加上 `so + 形容词`。`despondent` /dɪˈspɑːndənt/ 灰心到抬不起头。`resort to` = 别无他法而采取，后面接名词或 -ing。
-- `correspondence` /ˌkɔːrəˈspɑːndəns/ 公函来往，Hamilton 接管了写信
-- `shoot back` 既是回嘴，也是开枪，`Congress writes ... I shoot back` 一句两用
-- `sing a song of sixpence` 是一首英国童谣的标题，这里用来讽刺：没有装备，只好"唱歌"打发
+- 单词：
+  - `correspondence` /ˌkɔːrəˈspɑːndəns/
+    - 词性：n. 不可数
+    - 这里：公函往来，Hamilton 接管了写信
+    - 其他：也指「两件事物之间的对应关系」，`a close correspondence between A and B` = A 和 B 高度对应；动词 `correspond` 既可以指「通信」也可以指「相符」
+  - `shoot back` /ʃuːt bæk/
+    - 词性：短语动词，vt./vi.
+    - 变形：shoot – shot – shot（不规则）
+    - 这里：回信、回嘴，也双关「开枪反击」
+    - 其他：字面也可以是「开枪反击」，这句歌词正是利用这个双重含义
+  - `sixpence` /ˈsɪkspəns/
+    - 词性：n.（这里是童谣标题的一部分，专有名词性质）
+    - 这里：`sing a song of sixpence` 是一首英国童谣的标题，这里用来讽刺：没有装备，只好"唱歌"打发
+    - 其他：`sixpence` 本身是英国旧币制里的「六便士」硬币，现已不再流通
+  - `despondent` /dɪˈspɑːndənt/
+    - 词性：adj.
+    - 这里：灰心到抬不起头
+    - 其他：比 `sad` 更强调「失去希望、意志消沉」，常搭配 `despondent about sth`
 
 **The cavalry's not coming. / Sir! / Alex, listen. There's only one way for us to win this. Provoke outrage, outright. / That's right.**
 
 - 中文：援军不会来了。/ 长官！/ 亚历克斯，听我说。我们赢这场仗只有一个办法：公开地、直接地激怒他们。/ 没错。
 - 用法：`cavalry` 字面是骑兵，`the cavalry's not coming` 是美式习语「援兵不来了」，指不要指望有人来救场。`provoke outrage, outright` 中 `outright` 做副词，「直截了当地」，和前面的 `provoke`（激起）、后面要讲的 `outrun / outlast` 都用 `out-` 开头，是刻意的头韵设计。
+- 单词：
+  - `cavalry` /ˈkævəlri/
+    - 词性：n. 不可数（集合名词，指骑兵部队整体）
+    - 这里：`the cavalry's not coming` = 援兵不会来了
+    - 其他：历史上专指骑兵部队；现代英语里这句习语常用来表示「没人会来救场」，和真正的马已经没什么关系
 
 **Don't engage, strike by night. Remain relentless 'til their troops take flight. Make it impossible to justify the cost of the fight.**
 
 - 中文：不要正面交战，夜间打击。保持不停歇，直到他们的部队逃走。让对方没法再证明这场仗还打得下去、值不值。
 - 用法：`engage` 在军事里是「接敌」。`take flight` = 逃走。`relentless` /rɪˈlentləs/ 不松懈的。`justify` /ˈdʒʌstɪfaɪ/ 证明……合理——这是消耗战的核心逻辑：让敌人觉得打下去不划算，而不是正面击败他们。
+- 单词：
+  - `engage` /ɪnˈɡeɪdʒ/
+    - 词性：vt./vi.
+    - 变形：engage – engaged – engaged（规则）
+    - 这里：（军事）接敌、交战
+    - 其他：日常最常见意思是「吸引（注意力）」或「订婚」（`be engaged to sb`），和「打仗」的意思差很远，要靠上下文分辨
 
 **Outrun. / Outrun. / Outlast. / Outlast. / Hit 'em quick, get out fast. / Chick-a-plao! / Stay alive 'til this horror show is past. We're gonna fly a lot of flags half-mast.**
 
@@ -41,19 +67,47 @@
 
 - 中文：举杯！/ 我要回纽约，继续我的学徒生涯。/ 我去请求法国援助，祈祷法国已经派船来了。/ 我留下来和 Hamilton 一起工作，我们写反对奴隶制的文章，每天都是对我们情谊和勇气的考验。
 - 语法：这四个人轮流用「我 + 动词」说出各自接下来要做的事，是说唱里常见的"分镜头"叙事，每人一句，交代各自的命运走向。
-- `apprenticeship` /əˈprentɪsʃɪp/ 学徒期。`camaraderie` /ˌkæməˈrɑːdəri/ 同志情谊、战友之间的情分
+- 单词：
+  - `apprenticeship` /əˈprentɪsʃɪp/
+    - 词性：n. 可数/不可数
+    - 变形：复数 apprenticeships
+    - 这里：学徒期
+    - 其他：名词 `apprentice` = 学徒（这个人本身），动词搭配 `serve an apprenticeship` = 当学徒
+  - `camaraderie` /ˌkæməˈrɑːdəri/
+    - 词性：n. 不可数
+    - 这里：同志情谊、战友之间的情分
+    - 其他：法语借词，发音保留了法语腔调，常见于团队、军队语境
 
 **We cut supply lines, we steal contraband, we pick and choose our battles and places to take a stand. And ev'ry day, "Sir, entrust me with a command," and ev'ry day, No. He dismisses me out of hand.**
 
 - 中文：我们切断补给线，偷英军的违禁物资，我们挑选自己要打的仗、要坚守的地方。每一天，（我说）"长官，把一支部队交给我吧"，每一天，（他说）不行。他连考虑都不考虑就打发了我。
 - 用法：`pick and choose` = 挑挑拣拣，强调主动选择而非被动应战。`entrust someone with something` = 把……托付给某人。`out of hand` = 不经考虑地、直接地（拒绝），和"信手"无关，是固定搭配。
-- `contraband` /ˈkɑːntrəbænd/ 违禁品、走私货
+- 单词：
+  - `contraband` /ˈkɑːntrəbænd/
+    - 词性：n. 不可数
+    - 这里：违禁品、走私货
+    - 其他：也可直接当形容词用，`contraband goods` = 违禁货物
+  - `entrust` /ɪnˈtrʌst/
+    - 词性：vt. 及物
+    - 变形：entrust – entrusted – entrusted（规则）
+    - 这里：`entrust sb with sth` = 把……托付给某人
+    - 其他：也可反过来说 `entrust sth to sb`，两种搭配意思一样，注意介词顺序不同
+  - `dismiss` /dɪsˈmɪs/
+    - 词性：vt. 及物
+    - 变形：dismiss – dismissed – dismissed（规则）
+    - 这里：`dismisses me out of hand` = 不经考虑地打发我
+    - 其他：也常指「解雇」（`dismiss an employee`）或法律上「驳回」（`dismiss a case`）
 
 **Instead of me, he promotes Charles Lee. Makes him second-in-command. / I'm a General. Whee!!!! / Yeah. He's not the choice I would have gone with. He shits the bed at the Battle of Monmouth.**
 
 - 中文：没有选我，他提拔了 Charles Lee，让他做副总指挥。/ 我是将军了。耶！/ 是啊。他可不是我会选的人。他在门茅斯战役里彻底搞砸了。
 - 语法：`he's not the choice I would have gone with` 用 `would have + 过去分词` 表达对过去一个没发生的选择的假设评价——如果是我选，不会选他。`shit the bed` 是粗俗俚语，字面「在床上拉屎」，实指把事情搞得一塌糊涂、彻底失败，语气很冲，配合士兵们对 Lee 的轻蔑。
-- `second-in-command` 副指挥官，仅次于最高指挥的职位
+- 单词：
+  - `second-in-command` /ˈsekənd ɪn kəˈmænd/
+    - 词性：n. 可数短语
+    - 变形：复数 seconds-in-command
+    - 这里：副指挥官，仅次于最高指挥的职位
+    - 其他：这类「名词+介词短语」构成的复合词，复数通常加在第一个名词上，而不是最后一个词上（类似 `men-of-war`）
 
 **Ev'ryone attack! / Retreat! / Attack! / Retreat! / What are you doing, Lee? Get back on your feet! / But there's so many of them! / I'm sorry, is this not your speed?! Hamilton! / Ready, sir! / Have Lafayette take the lead! / Yes, sir!**
 

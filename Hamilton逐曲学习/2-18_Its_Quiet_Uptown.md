@@ -12,7 +12,11 @@ Philip 死后，Hamilton 一家搬到城北。Hamilton 日复一日在花园、�
 
 - 中文：有些时刻，话语够不着。有一种痛苦太可怕，没法说出名字。你把孩子抱得尽可能紧，把那不可想象的事推开。有些时刻你陷得那么深，索性往下沉反而显得更容易。
 - 语法：`that` 这里相当于 `when`，把时刻说成话语抵达不了的地方。`too ... to` = 太……以至于不能，`suffering too terrible to name` 字面「太可怕以致无法命名的痛苦」。`in so deep` 陷得很深，`swim down` 是溺水的人放弃向上挣扎、任自己往下沉，比喻放弃抵抗悲伤。
-- `unimaginable` /ˌʌnɪˈmædʒɪnəbl/ 无法想象的事，是这首歌反复出现的词，几乎成了「儿子的死」的代称。
+- 单词：
+  - `unimaginable` /ˌʌnɪˈmædʒɪnəbl/
+    - 词性：adj.（这里名词化使用，`the unimaginable` = 不可想象的那件事）
+    - 这里：无法想象的事，几乎成了「儿子的死」的代称，是这首歌反复出现的词
+    - 其他：动词 `imagine` 本身很常用，`un-` 前缀表否定；`the + 形容词` 这种用法（像 `the unknown` = 未知的事物）常把形容词临时变成一个抽象名词
 
 **The Hamiltons move uptown and learn to live with the unimaginable.**
 
@@ -32,7 +36,13 @@ Philip 死后，Hamilton 一家搬到城北。Hamilton 日复一日在花园、�
 **If you see him in the street, walking by himself, talking to himself, have pity.**
 
 - 中文：如果你在街上看见他，一个人走着，自言自语，请可怜他。
-- 语法：`If you see` 是条件句，`walking`、`talking` 是补语，描述「看见他的时候他在做什么」。`have pity` 是祈使句，`pity` /ˈpɪti/ 怜悯。
+- 语法：`If you see` 是条件句，`walking`、`talking` 是补语，描述「看见他的时候他在做什么」。`have pity` 是祈使句，`pity` 怜悯。
+- 单词：
+  - `pity` /ˈpɪti/
+    - 词性：n. 不可数；也作 vt. 及物
+    - 变形：动词 pity – pitied – pitied（规则，y 变 i）
+    - 这里：`have pity` = 请可怜（他）
+    - 其他：常见感叹语 `What a pity!` = 真可惜！，这时和「可怜」无关，是「遗憾」的意思，容易和「同情」的意思搞混
 
 **Philip, you would like it uptown. It's quiet uptown. / He is working through the unimaginable.**
 
@@ -62,6 +72,12 @@ Philip 死后，Hamilton 一家搬到城北。Hamilton 日复一日在花园、�
 
 - 中文：如果我能保住他的命，如果我能用我的命换他的命，他现在就会站在这里，你就会微笑，那样就够了。
 - 语法：`If I could spare/trade... he'd be... and you would...` 是与现在事实相反的虚拟语气。`spare` 这里是「保全、免除」，不是「节省」。
+- 单词：
+  - `spare` /sper/
+    - 词性：vt. 及物；也作 adj./n.
+    - 变形：spare – spared – spared（规则）
+    - 这里：保全（他的命）
+    - 其他：当形容词是「备用的」，`a spare key` = 一把备用钥匙；`spare time` = 空闲时间，是最常见的日常搭配，和「保全性命」这个意思差得很远
 
 **I don't pretend to know the challenges we're facing. I know there's no replacing what we've lost and you need time. But I'm not afraid, I know who I married. Just let me stay here by your side, that would be enough.**
 
@@ -81,7 +97,12 @@ Philip 死后，Hamilton 一家搬到城北。Hamilton 日复一日在花园、�
 **There are moments that the words don't reach. There is a grace too powerful to name. We push away what we can never understand, we push away the unimaginable. They are standing in the garden, Alexander by Eliza's side.**
 
 - 中文：有些时刻，话语够不着。有一种恩典太强大，没法说出名字。我们把永远无法理解的事推开，把那不可想象的事推开。他们站在花园里，Alexander 在 Eliza 身边。
-- 用法：这段几乎是全曲开头那段的变形——开头的 `suffering too terrible to name`（太可怕没法命名的痛苦）变成了 `grace too powerful to name`（太强大没法命名的恩典），「痛苦」被换成了「恩典」，暗示故事从悲痛走到了宽恕。`grace` /ɡreɪs/ 这里不是「优雅」，是宗教意味上的「恩典、宽厚」。
+- 用法：这段几乎是全曲开头那段的变形——开头的 `suffering too terrible to name`（太可怕没法命名的痛苦）变成了 `grace too powerful to name`（太强大没法命名的恩典），「痛苦」被换成了「恩典」，暗示故事从悲痛走到了宽恕。`grace` 这里不是「优雅」，是宗教意味上的「恩典、宽厚」。
+- 单词：
+  - `grace` /ɡreɪs/
+    - 词性：n. 不可数；也作 vt. 及物（较书面）
+    - 这里：（宗教意味的）恩典、宽厚
+    - 其他：日常更常见的意思是「优雅」，`move with grace` = 动作优雅；`say grace` = 饭前祷告，又是另一个固定搭配
 
 **She takes his hand. / It's quiet uptown.**
 

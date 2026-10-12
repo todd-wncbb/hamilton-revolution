@@ -17,12 +17,22 @@
 
 - 中文：摆上台面的议题是：财政部长 Hamilton 的计划——由联邦承接各州债务，并建立一家国家银行。国务卿 Jefferson，现在请你发言，先生。
 - 用法：开会用语。`the floor` 是发言权，不是地板，`have the floor` = 轮到你讲。`on the table` 这里是「摆出来供讨论」。`assume debts`：`assume` /əˈsuːm/ 这里是政府「承接」债务，不是「假定」——这是本曲的政策核心，也是后面所有政治仇恨的起点。
+- 单词：
+  - `assume` /əˈsuːm/
+    - 词性：vt. 及物
+    - 变形：assume – assumed – assumed（规则）
+    - 这里：（政府）承接、承担（债务）
+    - 其他：日常最常见的意思是「假定、以为」，`I assumed you knew` = 我以为你知道；两个意思差很大，要靠上下文（后面接的是「责任/职位」还是「某种情况」）分辨
 
 **'Life, liberty and the pursuit of happiness.' We fought for these ideals; we shouldn't settle for less. These are wise words, enterprising men quote 'em. Don't act surprised, you guys, cuz I wrote 'em.**
 
 - 中文：「生命、自由和对幸福的追求。」我们为这些理想而战过；我们不该将就接受更差的东西。这是至理名言，有事业心的人都爱引用。你们别装惊讶，这话是我写的。
 - 用法：第一句是《独立宣言》原句，`I wrote 'em` 字面「我写的」，实指 Jefferson 本人就是《独立宣言》的起草人——他一开口就先把自己架上道德高地。`settle for less` = 将就接受更差的东西。
-- `enterprising` /ˈentərpraɪzɪŋ/ 有事业心的、敢闯的
+- 单词：
+  - `enterprising` /ˈentərpraɪzɪŋ/
+    - 词性：adj.
+    - 这里：有事业心的、敢闯的
+    - 其他：名词 `enterprise` 既是「事业心、进取精神」（如 `free enterprise` = 自由企业制度），也直接指「企业」本身
 
 **But Hamilton forgets his plan would have the government assume state's debts. Now, place your bets as to who that benefits: the very seat of government where Hamilton sits.**
 
@@ -33,6 +43,12 @@
 
 - 中文：哦，鞋合脚，你就穿上吧。如果纽约欠了债——凭什么要弗吉尼亚来背？呃！我们的债都还清了，抱歉了。别对南方加税，因为我们过得舒舒服服的。
 - 语法：`if the shoe fits, wear it` 是英语成语，字面「如果这鞋合你的脚，你就穿上」，实指「如果这个指责说中了你，那就承认吧」，Jefferson 用来把「谁从国债计划里获利」这顶帽子扣回纽约和 Hamilton 头上。`why should Virginia bear it?` 的 `bear` 是「承担」，不是「熊」。`got it made in the shade` 俚语，字面「在阴凉处就把事情办成了」，实指「过得轻松惬意、不费力」。
+- 单词：
+  - `bear` /ber/
+    - 词性：vt. 及物
+    - 变形：bear – bore – borne（不规则）
+    - 这里：承担（债务）
+    - 其他：和名词「熊」`a bear` 完全同形同音但毫不相关；动词的另一个常见义是「忍受」，`I can't bear it` = 我受不了了，还有「生（孩子）」，`bear a child`（这个意义下过去分词常写 `born`，不是 `borne`）
 
 **In Virginia, we plant seeds in the ground. We create. You just wanna move our money around. This financial plan is an outrageous demand, and it's too many damn pages for any man to understand.**
 
@@ -58,7 +74,17 @@
 
 - 中文：如果我们承接各州的债，联邦就能获得一条新的信贷额度，像是一剂财政"利尿剂"。你怎么就是不明白？如果我们积极进取、敢打敢拼，联邦就能被推一把。你反倒想给它打一针镇静剂？
 - 用法：`diuretic`（利尿剂，促进排泄代谢）对 `sedative`（镇静剂，让人昏睡）形成一组医学比喻——Hamilton 把自己的方案比作让国家代谢运转起来的药，把 Jefferson 的保守比作让国家昏睡不动的药。
-- `diuretic` /ˌdaɪəˈretɪk/ 利尿剂；`sedative` /ˈsedətɪv/ 镇静剂
+- 单词：
+  - `diuretic` /ˌdaɪəˈretɪk/
+    - 词性：n. 可数；也可作 adj.
+    - 变形：复数 diuretics
+    - 这里：利尿剂，比喻能让国家经济"动起来"的刺激手段
+    - 其他：医学词汇，日常对话很少用到，但在这句医学比喻里是关键词
+  - `sedative` /ˈsedətɪv/
+    - 词性：n. 可数；也可作 adj.
+    - 变形：复数 sedatives
+    - 这里：镇静剂，比喻让国家"昏睡不动"的保守做法
+    - 其他：形容词用法 `a sedative effect` = 镇静效果；和 `sedentary`（久坐不动的生活方式）词形相近但意思不同，别搞混
 
 **A civics lesson from a slaver. Hey neighbor, your debts are paid cuz you don't pay for labor. "We plant seeds in the South. We create." Yeah, keep ranting, we know who's really doing the planting.**
 
@@ -69,13 +95,31 @@
 
 - 中文：还有一件事，启蒙时代先生。别跟我讲战争的大道理，你根本没打过仗。你以为我会怕你？我们在战壕里差点死掉，你却跑去和法国人嗑药逍遥。
 - 用法：`Mr. Age of Enlightenment` 是讽刺性的称呼，把 Jefferson 等同于整个「启蒙时代」，暗讽他爱空谈理念却脱离实际。`getting high` 字面「嗑药、飘起来」，这里讽刺 Jefferson 在法国的生活方式。
-- `trench` /trentʃ/ 战壕
+- 单词：
+  - `trench` /trentʃ/
+    - 词性：n. 可数
+    - 变形：复数 trenches
+    - 这里：战壕
+    - 其他：常见搭配 `trench coat` = 风衣（因第一次世界大战堑壕战中英军军官穿着而得名）；比喻用法 `in the trenches` = 身处第一线、埋头苦干
 
 **Thomas Jefferson, always hesitant with the President, reticent—there isn't a plan he doesn't jettison. Madison, you're mad as a hatter, son, take your medicine. Damn, you're in worse shape than the national debt is in, sittin' there useless as two shits. Hey, turn around, bend over, I'll show you where my shoe fits.**
 
 - 中文：Thomas Jefferson，在总统面前总是犹犹豫豫、惜字如金——没有一个计划他是不想扔掉的。Madison，你疯得跟帽匠一样，小子，吃你的药吧。天哪，你比国债的状况还糟，坐在那儿一点用都没有。嘿，转过身，弯下腰，我让你看看我的鞋到底合不合脚。
 - 语法：`mad as a hatter` 是英语成语，字面「疯得像个制帽匠」（源于旧时制帽工艺用水银中毒的历史），实指「疯疯癫癫」。结尾 `I'll show you where my shoe fits` 直接把 Jefferson 前面那句成语 `if the shoe fits, wear it` 原话抢回来、换成一句羞辱性的脏话梗，是整场说唱battle里"押韵回击"的典型手法。
-- `hesitant` /ˈhezɪtənt/ 犹豫的；`reticent` /ˈretɪsənt/ 沉默寡言的；`jettison` /ˈdʒetɪsən/ 丢弃、抛弃（本义指从船上扔货减重）
+- 单词：
+  - `hesitant` /ˈhezɪtənt/
+    - 词性：adj.
+    - 这里：犹豫的
+    - 其他：动词 `hesitate` = 犹豫，常用句型 `don't hesitate to do sth` = 别犹豫，尽管做
+  - `reticent` /ˈretɪsənt/
+    - 词性：adj.
+    - 这里：沉默寡言的、惜字如金的
+    - 其他：常接 `about`，`reticent about one's feelings` = 对自己的感受含糊其词、不愿多说
+  - `jettison` /ˈdʒetɪsən/
+    - 词性：vt. 及物
+    - 变形：jettison – jettisoned – jettisoned（规则）
+    - 这里：丢弃、抛弃（计划）
+    - 其他：本义是「从船上/飞机上抛掉货物以减重」，引申到任何「为了减负而放弃」的场景，比 `abandon` 更强调「为了自保而主动扔掉」
 
 **Excuse me? Jefferson, Madison, take a walk! Hamilton, take a walk! We'll reconvene after a brief recess. Hamilton! / Sir! / A word.**
 
@@ -96,6 +140,16 @@
 
 - 中文：（Hamilton：）James Madison 根本不理我，这事儿一开始就没法谈。（Washington：）打赢战争容易，年轻人，治理国家更难。（Hamilton：）他们就是不肯让步。（Washington：）你得找一个折衷方案。（Hamilton：）可他们根本没有自己的计划，他们就是恨我的计划！（Washington：）那就想办法说服他们改变想法。
 - 用法：`nonstarter` 字面「起跑都起不了的东西」，引申为「根本没有可能性的事」。`intransigent` /ɪnˈtrænsɪdʒənt/ 不妥协的、顽固的——比 `stubborn` 更正式、更书面。
+- 单词：
+  - `nonstarter` /ˌnɑːnˈstɑːrtər/
+    - 词性：n. 可数
+    - 变形：复数 nonstarters
+    - 这里：根本没有可能性的事
+    - 其他：常用于否定一个提议时，`that idea's a nonstarter` = 那个想法根本不可行，语气比直接说 `impossible` 委婉一点
+  - `intransigent` /ɪnˈtrænsɪdʒənt/
+    - 词性：adj.
+    - 这里：不妥协的、顽固的
+    - 其他：名词 `intransigence` = 不妥协的态度；比日常用词 `stubborn` 更正式、更常出现在政治/外交语境里
 
 **What happens if I don't get congressional approval? / I imagine they'll call for your removal. / Sir— / Figure it out, Alexander. That's an order from your commander.**
 

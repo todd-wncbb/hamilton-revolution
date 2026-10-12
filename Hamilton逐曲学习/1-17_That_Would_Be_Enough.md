@@ -26,7 +26,18 @@ Eliza 怀孕了，她求 Washington 把丈夫送回家。她要的不是荣耀�
 **Will you relish being a poor man's wife, unable to provide for your life?**
 
 - 中文：你会享受做一个穷人的妻子吗，没法养活自己的生活？
-- 用法：`relish` /ˈrelɪʃ/ 细细享受，后面接 `-ing`。
+- 用法：`relish` 细细享受，后面接 `-ing`。
+- 单词：
+  - `relish` /ˈrelɪʃ/
+    - 词性：vt. 及物（这里）；也作 n. 不可数
+    - 变形：relish – relished – relished（规则）
+    - 这里：享受、乐在其中
+    - 其他：名词可以是「兴致、乐趣」（`eat with relish` = 吃得很有滋味），在美式英语里还单独指一种「调味酸甜酱」（hot dog relish），和「享受」毫无关系
+  - `deserve` /dɪˈzɜːrv/
+    - 词性：vt. 及物
+    - 变形：deserve – deserved – deserved（规则）
+    - 这里：`you deserve a chance` = 你应该有这个机会
+    - 其他：常用被动结构 `be well deserved` = 名副其实、应得的（夸人努力换来的成果）
 
 **I relish being your wife. Look around, look around…**
 
@@ -47,6 +58,12 @@ Eliza 怀孕了，她求 Washington 把丈夫送回家。她要的不是荣耀�
 
 - 中文：我不敢说我懂你面对的那些难处。你脑子里不断擦掉又重新创造出来的那些世界。
 - 用法：`don't pretend to know` = 不装作知道，谦虚承认自己不懂。`erasing and creating... in your mind` 指 Hamilton 不断在脑子里构想、推翻、重建各种方案（宪法、国家制度等），Eliza 承认自己进不去那个世界，但不妨碍她爱他。
+- 单词：
+  - `pretend` /prɪˈtend/
+    - 词性：vt./vi.
+    - 变形：pretend – pretended – pretended（规则）
+    - 这里：`don't pretend to know` = 不装作知道
+    - 其他：小孩「玩扮演游戏」也用这个词，`let's pretend we're pirates` = 我们来扮海盗吧，和「假装欺骗」比，这个用法更中性、更接近「想象游戏」
 
 **But I'm not afraid. I know who I married. So long as you come home at the end of the day that would be enough.**
 
@@ -57,11 +74,28 @@ Eliza 怀孕了，她求 Washington 把丈夫送回家。她要的不是荣耀�
 
 - 中文：我们不需要留名后世。我们不需要钱。如果我能给你内心的平静，
 - 语法：`legacy` 遗产，这里指「死后留下的名声、功业」，呼应全剧「谁会讲述你的故事」的主题——Eliza 在说她不在乎这个，和 Hamilton、Burr 的渴望正好相反。`grant someone peace of mind` = 给某人内心的安宁。
+- 单词：
+  - `legacy` /ˈleɡəsi/
+    - 词性：n. 可数/不可数
+    - 变形：复数 legacies
+    - 这里：死后留下的名声、功业
+    - 其他：法律里也是本义「遗产、遗赠」（钱或财产）；科技领域 `legacy system` = 老旧但仍在用的系统，是个常见的引申用法
+  - `grant` /ɡrænt/
+    - 词性：vt. 及物；也作 n. 可数
+    - 变形：grant – granted – granted（规则）
+    - 这里：给予（内心的平静）
+    - 其他：名词常指「拨款、助学金」，`a research grant` = 一笔研究经费；`take sth for granted` = 把某事当成理所当然，是很常用的习语
 
 **If you could let me inside your heart… Oh, let me be a part of the narrative in the story they will write someday. Let this moment be the first chapter: where you decide to stay and I could be enough and we could be enough that would be enough.**
 
 - 中文：如果你能让我走进你的心……哦，让我成为将来别人书写的那个故事里的一部分。让这一刻成为第一章：你选择留下来的那一刻，我就足够了，我们就足够了，那就够了。
 - 语法：`let me be a part of the narrative in the story they will write someday`：主干是 `let me be a part of the narrative`，`in the story they will write someday` 是修饰 `narrative` 的定语（省略了关系词 that/which）。`narrative` 和 `story` 都呼应全剧反复出现的「story / 谁讲述你的故事」这个主题词，Eliza 这里第一次把自己放进了这个叙事里。
+- 单词：
+  - `narrative` /ˈnærətɪv/
+    - 词性：n. 可数/不可数
+    - 变形：复数 narratives
+    - 这里：叙事、故事线
+    - 其他：新闻/政治语境里常指「说法、叙事角度」，`control the narrative` = 掌控舆论说法，不一定是真实的故事，更强调「谁来定义事情怎么被讲述」
 
 ---
 

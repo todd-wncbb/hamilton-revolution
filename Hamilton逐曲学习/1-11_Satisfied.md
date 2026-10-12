@@ -12,7 +12,12 @@
 
 - 中文：好了好了，这才像样！现在大家为伴娘鼓掌，Angelica Schuyler！
 - 用法：`That's what I'm talkin' about!` 口语里是「这就对了」的庆祝语。`give it up for` = 把掌声给某人。
-- `maid of honor` 首席伴娘
+- 单词：
+  - `maid of honor` /meɪd ʌv ˈɑːnər/
+    - 词性：n. 可数短语
+    - 变形：复数 maids of honor
+    - 这里：首席伴娘
+    - 其他：伴郎则是 `best man`，这两个称呼在婚礼词汇里是固定配对
 
 **A toast to the groom! To the bride! From your sister, who is always by your side. To your union, and the hope that you provide. May you always… be satisfied.**
 
@@ -28,8 +33,21 @@
 
 - 中文：我再也回不到从前了，一副饿出来的骨架上长着一双聪明的眼睛，你说"嗨"的时候，我连自己叫什么都忘了，心一下子就燃起来了，每一处都在燃烧——这可不是闹着玩的……
 - 语法：`have never been the same` 现在完成时，强调从那一刻起人就变了，一直持续到现在。`set ... aflame` = 点燃，字面是火，这里是心动的比喻，`aflame` 重复两次加强。
-- `pang` /pæŋ/ 一阵剧痛，`hunger-pang` 饥饿的抽痛，`frame` 这里是身架，不是相框
-- `dang` 口语里 `damn` 的委婉替代，加强语气但不算脏话
+- 单词：
+  - `pang` /pæŋ/
+    - 词性：n. 可数
+    - 变形：复数 pangs
+    - 这里：`hunger-pang` = 饥饿的抽痛
+    - 其他：常搭配抽象的痛感，`a pang of guilt/jealousy` = 一阵愧疚/嫉妒
+  - `frame` /freɪm/
+    - 词性：n. 可数
+    - 变形：复数 frames
+    - 这里：身架、体型，不是相框
+    - 其他：最常见意思是「框架、相框」；动词 `frame sb` = 栽赃某人，是完全不同的意思
+  - `dang` /dæŋ/
+    - 词性：adj./感叹词（口语）
+    - 这里：`damn` 的委婉替代，加强语气但不算脏话
+    - 其他：和 `darn` 是同类的委婉替代词，口语里很常见
 
 **You strike me as a woman who has never been satisfied. / I'm sure I don't know what you mean. You forget yourself. / You're like me. I'm never satisfied. / Is that right? / I have never been satisfied. / My name is Angelica Schuyler. / Alexander Hamilton. / Where's your fam'ly from? / Unimportant. There's a million things I haven't done but just you wait, just you wait…**
 
@@ -40,7 +58,12 @@
 
 - 中文：所以——所以这就是和同一水平的人斗智斗勇的感觉！到底有什么圈套？
 - 语法：`so so so—` 是她结巴着找词，表现惊喜带来的语无伦次。`match wits with someone` = 和某人斗智。
-- `the catch` = 听起来太好、里面藏着的条件，`What the hell` 加强惊讶，口语
+- 单词：
+  - `catch` /kætʃ/
+    - 词性：n. 可数（这里，`the catch` = 隐藏的条件/圈套）
+    - 变形：复数 catches；动词 catch – caught – caught（不规则）
+    - 这里：听起来太好、里面藏着的条件
+    - 其他：动词最基础意思是「接住、抓住」；`catch sb's eye` = 吸引某人注意，是常见搭配
 
 **It's the feeling of freedom, of seein' the light, it's Ben Franklin with a key and a kite! You see it, right?**
 
@@ -56,13 +79,26 @@
 
 - 中文：我问起他的家庭，你看到他的反应了吗？他的手开始不安地动来动去，眼神躲躲闪闪。他一个钱都没有，全靠临场发挥在硬撑。
 - 用法：`flying by the seat of his pants` 字面指早期飞行员没有仪表，全靠身体感觉开飞机；这里实指他没有家底、没有计划，完全靠本能和胆子在闯——呼应他出身孤儿、一无所有的背景。
-- `fidget` /ˈfɪdʒɪt/ 不安地小动作。`askance` /əˈskæns/ 斜着眼、怀疑地看
+- 单词：
+  - `fidget` /ˈfɪdʒɪt/
+    - 词性：vi. 不及物
+    - 变形：fidget – fidgeted – fidgeted（规则）
+    - 这里：不安地小动作
+    - 其他：名词同形 `a fidget`，玩具 `fidget spinner`（指尖陀螺）就是用这个词
+  - `askance` /əˈskæns/
+    - 词性：adv.
+    - 这里：斜着眼、怀疑地看
+    - 其他：几乎只出现在固定搭配 `look at sb/sth askance` 里，很少单独使用
 
 **Handsome, boy, does he know it! Peach fuzz, and he can't even grow it! I wanna take him far away from this place, then I turn and see my sister's face and she is… Helpless…**
 
 - 中文：真帅，天哪，他自己也知道！脸上才刚长绒毛，连胡子都长不出来！我真想带他远走高飞，然后我一转头看见我妹妹的脸，而她……毫无办法……
 - 用法：`does he know it!` 是倒装的感叹句，强调"他自己可清楚得很"。`peach fuzz` 字面是桃子表皮的绒毛，用来形容男孩脸上刚冒出来、稀疏得几乎看不见的胡须，调侃他还很年轻；`can't even grow it` 更进一步说他连那点绒毛都长不好，突出稚气。
-- `peach fuzz` /piːtʃ fʌz/（男孩脸上）刚长出的细软胡须
+- 单词：
+  - `peach fuzz` /piːtʃ fʌz/
+    - 词性：n. 不可数
+    - 这里：（男孩脸上）刚长出的细软胡须
+    - 其他：字面是「桃子表皮的绒毛」，引申比喻年轻、稚嫩的象征
 
 **And I know she is… Helpless… And her eyes are just… Helpless… And I realize three fundamental truths at the exact same time…**
 
@@ -78,7 +114,11 @@
 
 - 中文：第一！我是生在这样一个世界里的女孩：我唯一的工作就是嫁得有钱。我父亲没有儿子，所以得由我去"向上攀"找一个有钱人嫁，而我又是最大的、最聪明的，纽约城里的闲话又特别毒。亚历山大一个钱都没有，哈！但这不代表我就不那么想要他了。
 - 语法：`in which` 引导定语从句，修饰 `a world`：「我唯一的工作是嫁得有钱」的那个世界。`social climb for one` 把 `social climb`（向上流社会攀附）这个短语临时当动词用，`for one` = 为了找一个（有钱的丈夫）。`That doesn't mean X` 用来反驳前一句可能带来的推论：钱不够，不代表感情就少。
-- `insidious` /ɪnˈsɪdiəs/ 隐蔽而有害的，常用来形容谣言、疾病等不知不觉侵蚀人的东西
+- 单词：
+  - `insidious` /ɪnˈsɪdiəs/
+    - 词性：adj.
+    - 这里：隐蔽而有害的
+    - 其他：常用来形容谣言、疾病等不知不觉侵蚀人的东西，比 `dangerous` 更强调「悄悄地、不易察觉」
 
 **Number two! He's after me cuz I'm a Schuyler sister. That elevates his status, I'd have to be naïve to set that aside, maybe that is why I introduce him to Eliza, now that's his bride. Nice going, Angelica, he was right, You will never be satisfied.**
 
@@ -95,7 +135,17 @@
 
 - 中文：但当我在夜里幻想时，想到的还是亚历山大的眼睛；我把"如果当时没那么快看透他、事情本可能怎样"这件事浪漫化。至少我亲爱的伊丽莎是他的妻子；至少我把他的眼神留在了我的生活里……
 - 语法：`what might have been` 是「本可能发生却没发生的事」，用 `might have + 过去分词` 表达对过去的虚拟猜测。`if I hadn't sized him up so quickly` 是与过去事实相反的虚拟条件句（过去完成时）。
-- `romanticize` /roʊˈmæntɪsaɪz/ 把……浪漫化、理想化。`size someone up` = 一下子看透、评估某人
+- 单词：
+  - `romanticize` /roʊˈmæntɪsaɪz/
+    - 词性：vt. 及物
+    - 变形：romanticize – romanticized – romanticized（规则；英式拼法 romanticise）
+    - 这里：把……浪漫化、理想化
+    - 其他：常带贬义，暗示把本来不那么美好的事物过度美化
+  - `size up` /saɪz ʌp/
+    - 词性：短语动词，vt. 及物
+    - 变形：size – sized – sized（规则）
+    - 这里：`size sb up` = 一下子看透、评估某人
+    - 其他：常用于初次见面时快速判断对方，`size up a situation` = 评估形势，不限于人
 
 **(toast reprise) A toast to the groom! To the bride! ... May you always be satisfied. / Be satisfied, be satisfied... / He will never be satisfied. I will never be satisfied.**
 

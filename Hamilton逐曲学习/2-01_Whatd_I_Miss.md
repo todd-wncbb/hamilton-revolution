@@ -17,14 +17,33 @@
 
 - 中文：1789 年。那个私生子孤儿、立过战功的移民老兵，怎么用更多的债把各殖民地统一起来？和其他开国元勋对着打，直到他被迫放弃？拥有一切，又失去一切，你准备好迎接更多了吗？
 - 语法：又是一个被拉长的 `How does` 疑问句，主语堆了四层同位语（`bastard / orphan / immigrant / war vet`）才接上动词 `unite`；后面 `fight`、`have`、`lose` 三个并列动词都省略了主语，继续在同一个人身上追加动作——读的时候先抓住 `How does ... unite` 这根主干，其余都是插进去的修饰。
-- `decorated` /ˈdekəreɪtɪd/ 这里是「授过勋的」，不是「装饰的」
-- `vet` /vet/ = `veteran` 退伍军人
-- `forfeit` /ˈfɔːrfɪt/ 丧失、被迫放弃
+- 单词：
+  - `decorated` /ˈdekəreɪtɪd/
+    - 词性：adj.（本身是动词 decorate 的过去分词转形容词）
+    - 变形：动词 decorate – decorated – decorated（规则）
+    - 这里：授过勋的
+    - 其他：日常更常见的意思是「装饰的」，`a decorated cake` = 装饰过的蛋糕，要靠上下文分辨到底是「授勋」还是「装饰」
+  - `vet` /vet/
+    - 词性：n. 可数，`veteran` 的口语缩写；也可作 vt.（审查、核实）
+    - 变形：复数 vets；动词 vet – vetted – vetted（规则）
+    - 这里：退伍军人
+    - 其他：同一个缩写也常指「獣医」（`veterinarian` 的缩写），完全不同的意思，要看上下文；动词义 `vet sb/sth` = 仔细审查（候选人、申请材料）
+  - `forfeit` /ˈfɔːrfɪt/
+    - 词性：vt. 及物；也可作 n.
+    - 变形：forfeit – forfeited – forfeited（规则）
+    - 这里：丧失、被迫放弃
+    - 其他：常见搭配 `forfeit one's rights` = 丧失权利；体育比赛里 `a forfeit` 指「因未出场/违规而判负」
 
 **Treasury Secretary. Washington's the President, ev'ry American experiment sets a precedent.**
 
 - 中文：财政部长。华盛顿是总统，美国这场实验里，每一步都在开先例。
 - 用法：`precedent` /ˈpresɪdənt/ 先例，和 `President` 读音、拼写都相近，提醒观众这个国家没有旧规矩可抄，每件事都是头一回。
+- 单词：
+  - `precedent` /ˈpresɪdənt/
+    - 词性：n. 可数/不可数
+    - 变形：复数 precedents
+    - 这里：先例
+    - 其他：常见搭配 `set a precedent` = 开创先例；形容词 `unprecedented` = 前所未有的；注意和 `president`（总统）读音、拼写都很像，是常见的拼写陷阱
 
 **Not so fast. Someone came along to resist him. Pissed him off until we had a two-party system.**
 
@@ -35,7 +54,12 @@
 
 - 中文：你还没见过他，没机会见——因为他一直在法国当大使大显身手。但总得有人守住美国这个承诺。你一定得见见 Thomas。Thomas！
 - 用法：`kickin' ass` 俚语，「大显身手、干得漂亮」。`someone's gotta` = `someone has got to`，口语里「必须有人」。`simply must`：`You simply must meet Thomas` 是社交腔，「你一定得认识他」，带着郑重介绍的得意——Burr 把 Jefferson 包装成救场英雄登场。
-- `ambassador` /æmˈbæsədər/ 大使
+- 单词：
+  - `ambassador` /æmˈbæsədər/
+    - 词性：n. 可数
+    - 变形：复数 ambassadors
+    - 这里：大使
+    - 其他：也常用在比喻意义上，`a brand ambassador` = 品牌大使，不一定是外交官
 
 **Thomas Jefferson's coming home! (×4) Thomas Jefferson's coming home Lord he's been off in Paris for so long! Aaa-ooo!**
 
@@ -46,6 +70,11 @@
 
 - 中文：法国正跟着我们走向革命，再没有"维持现状"这回事了。但太阳照常升起，世界还在转。
 - 用法：`status quo` /ˌsteɪtəs ˈkwoʊ/ 现状，拉丁语借词，字面「现有的状态」。`the sun comes up and the world still spins` 是老生常谈式的安慰话，Jefferson 用它表现自己云淡风轻、置身事外——他刚帮别人点燃了一场革命，自己却说这没什么大不了，这是他性格的第一笔。
+- 单词：
+  - `status quo` /ˌsteɪtəs ˈkwoʊ/
+    - 词性：n. 不可数，固定短语，总是和 `the` 搭配：`the status quo`
+    - 这里：现状
+    - 其他：拉丁语借词，常搭配 `maintain/challenge the status quo` = 维持/挑战现状，是政治、商业评论里很常用的说法
 
 **I helped Lafayette draft a declaration, then I said, 'I gotta go. I gotta be in Monticello.' Now the work at home begins…**
 
@@ -61,7 +90,17 @@
 
 - 中文：我桌上有一封总统寄来的信。我行李都还没放下呢。Sally，乖，亲爱的，能不能帮我拆开？信上说总统在组建内阁，我将要当国务卿，太好了！而且参议院已经批准了……我刚到家，现在又要往纽约去了。
 - 用法：`Sally` 指 Sally Hemings，是 Jefferson 名下的奴隶（历史上也是他强迫发生关系的对象）；他用 `be a lamb`（当个乖孩子）这种宠溺的语气差她帮自己开信，这句台词是剧作家刻意埋的讽刺——Jefferson 刚唱完自己有多自由，下一秒就在使唤一个被他奴役的人。`won'tcha` = `won't you` 的口语连读。
-- `assemble a cabinet` 组建内阁；`Senate-approved` 参议院已批准
+- 单词：
+  - `assemble` /əˈsembl/
+    - 词性：vt. 及物
+    - 变形：assemble – assembled – assembled（规则）
+    - 这里：`assemble a cabinet` = 组建内阁
+    - 其他：也常指「组装（家具/机器）」，`assemble furniture` = 组装家具；名词 `assembly` = 集会、议会（如 `General Assembly` 联合国大会），也是「组装」
+  - `approve` /əˈpruːv/
+    - 词性：vt. 及物；也常接 `of` 不接宾语
+    - 变形：approve – approved – approved（规则）
+    - 这里：`Senate-approved` = 参议院已批准（过去分词作形容词）
+    - 其他：`approve of sb/sth` 多了个 `of`，意思变成「赞同、认可」（更偏主观态度），和 `approve sth`（正式批准）不完全一样
 
 **Headin' to New York! Headin' to New York! Lookin' at the rolling fields I can't believe that we are free. (合唱同步：Believe that we are free) Ready to face whatever's awaiting me in N.Y.C. (合唱同步：Me in N.Y.C.)**
 
@@ -92,7 +131,16 @@
 
 - 中文：我错过了什么？一头扎进了政治的深渊！我今天就要开第一次内阁会议了，我猜我得想点什么话说，我已经在路上了，咱们去把这事儿弄清楚……（合唱在背景里同步加码：啥？啥？我错过了什么？我刚回来就碰上这个？一头扎进深渊！啪！在路上。我错过了什么？啊啊啊！）
 - 用法：这一段是 Jefferson 主唱和 Ensemble 背景声部的两栏对位：主栏是 Jefferson 自己给自己打气、硬撑场面，背景栏把他的慌乱放大、重复、添油加醋，两条线叠在一起制造出手忙脚乱又带点喜剧感的节奏。
-- `abyss` /əˈbɪs/ 深渊；`headfirst` 头朝下地（猛冲进去），都在强调他毫无准备就被卷入了这场政治风暴
+- 单词：
+  - `abyss` /əˈbɪs/
+    - 词性：n. 可数
+    - 变形：复数 abysses
+    - 这里：深渊
+    - 其他：常比喻用，`stare into the abyss` = 直面绝望/深重的危机，是个常见的文学化表达
+  - `headfirst` /ˈhedˈfɜːrst/
+    - 词性：adv.
+    - 这里：头朝下地，猛冲进去
+    - 其他：常搭配 `dive/jump headfirst into sth` = 不假思索地猛然投入某事，和这里的用法一致，都在强调他毫无准备就被卷入了这场政治风暴
 
 **Mr. Jefferson, welcome home. / Mr. Jefferson? Alexander Hamilton. / Mr. Jefferson, welcome home. Sir, you've been off in Paris for so long! / So what did I miss?**
 

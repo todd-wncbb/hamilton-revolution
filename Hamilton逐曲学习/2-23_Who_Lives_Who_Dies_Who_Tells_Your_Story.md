@@ -21,7 +21,20 @@ Washington 先把全剧的问题说完：你控制不了谁活着、谁死去、
 **President Madison: He took our country from bankruptcy to prosperity. I hate to admit it, but he doesn't get enough credit for all the credit he gave us.**
 
 - 中文：Madison 总统：他把我们的国家从破产带到了繁荣。我不愿意承认，但他给了我们那么多信贷，自己却没得到足够的赞誉。
-- 用法：`I hate to admit it` = 我不想承认，但……，是让步的常用句式。`bankruptcy` /ˈbæŋkrʌptsi/ 破产，`prosperity` /prɑːˈsperəti/ 繁荣，`from A to B` 从一种状态到另一种。`he doesn't get enough credit for all the credit he gave us` 里第一个 `credit` 是「称赞」，第二个是「信贷」——他给予我们信贷，我们却没有给他足够的称赞，这是全剧最干净的一个双关。
+- 用法：`I hate to admit it` = 我不想承认，但……，是让步的常用句式。`bankruptcy` 破产，`prosperity` 繁荣，`from A to B` 从一种状态到另一种。`he doesn't get enough credit for all the credit he gave us` 里第一个 `credit` 是「称赞」，第二个是「信贷」——他给予我们信贷，我们却没有给他足够的称赞，这是全剧最干净的一个双关。
+- 单词：
+  - `bankruptcy` /ˈbæŋkrʌptsi/
+    - 词性：n. 不可数
+    - 这里：破产
+    - 其他：形容词 `bankrupt` 可以直接做形容词（`go bankrupt` = 破产）也可以做名词（`a bankrupt` = 一个破产者）
+  - `prosperity` /prɑːˈsperəti/
+    - 词性：n. 不可数
+    - 这里：繁荣
+    - 其他：形容词 `prosperous` = 繁荣的、富足的；动词 `prosper` = 兴旺、繁荣发展
+  - `credit` /ˈkredɪt/
+    - 词性：n. 不可数（这两种意思都不可数）；也作 vt. 及物
+    - 这里：第一次出现＝称赞、肯定；第二次出现＝信贷
+    - 其他：日常还常见 `credit card`（信用卡）、`take credit for sth`（把功劳归到自己身上，常带贬义，暗示抢功）
 
 **Every other founding father story gets told. Every other founding father gets to grow old.**
 
@@ -76,7 +89,18 @@ Washington 先把全剧的问题说完：你控制不了谁活着、谁死去、
 **Oh. Can I show you what I'm proudest of? / The orphanage. / I establish the first private orphanage in New York City. / The orphanage. / I help to raise hundreds of children. I get to see them growing up. / The orphanage.**
 
 - 中文：哦。我能给你看看我最自豪的事吗？/（合唱）孤儿院。/ 我在纽约市建立了第一家私立孤儿院。/ 孤儿院。/ 我帮忙养育了几百个孩子。我能看着他们长大。/ 孤儿院。
-- 用法：`establish` /ɪˈstæblɪʃ/ 建立。`orphanage` /ˈɔːrfənɪdʒ/ 孤儿院——第 1 曲里那个 `orphan`（孤儿），到结尾变成她亲手照顾的孩子，合唱反复唱出这一个词，像是把全剧的起点和终点钉在一起。`get to do` = 有机会做到。
+- 用法：`establish` 建立。`orphanage` 孤儿院——第 1 曲里那个 `orphan`（孤儿），到结尾变成她亲手照顾的孩子，合唱反复唱出这一个词，像是把全剧的起点和终点钉在一起。`get to do` = 有机会做到。
+- 单词：
+  - `establish` /ɪˈstæblɪʃ/
+    - 词性：vt. 及物
+    - 变形：establish – established – established（规则）
+    - 这里：建立（机构）
+    - 其他：也常用于「确立（事实/关系）」，`establish trust` = 建立信任；名词 `establishment` 除了「建立」这个动作，还可以指「机构、建制」，`the political establishment` = 政治建制派
+  - `orphanage` /ˈɔːrfənɪdʒ/
+    - 词性：n. 可数
+    - 变形：复数 orphanages
+    - 这里：孤儿院
+    - 其他：由 `orphan`（孤儿）+ `-age`（表示场所/状态的后缀）构成，和第 1 曲的 `orphan` 是同一个词根
 
 **In their eyes I see you, Alexander. I see you every— time.**
 

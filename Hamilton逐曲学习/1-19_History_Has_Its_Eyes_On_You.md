@@ -16,7 +16,23 @@ Washington 在战前告诉 Hamilton：历史在看着你。他自己年轻时带
 **I led my men straight into a massacre. I witnessed their deaths firsthand. I made every mistake, I felt the shame rise in me, And even now I lie awake,**
 
 - 中文：我带着我的人径直走进了一场屠杀。我亲眼目睹了他们的死。我犯下了每一个能犯的错，我感到羞耻在心里升起，直到现在，我还会在夜里睡不着，
-- 用法：`straight into` 径直走进。`massacre` /ˈmæsəkər/ 屠杀，他在承认自己的失败，不是在夸胜仗。`firsthand` = 亲眼、第一手地。`lie awake` = 躺着却睡不着，常用来形容被内疚、焦虑折磨。
+- 用法：`straight into` 径直走进。`massacre` 屠杀，他在承认自己的失败，不是在夸胜仗。`firsthand` = 亲眼、第一手地。`lie awake` = 躺着却睡不着，常用来形容被内疚、焦虑折磨。
+- 单词：
+  - `massacre` /ˈmæsəkər/
+    - 词性：n. 可数；也作 vt. 及物
+    - 变形：复数 massacres；动词 massacre – massacred – massacred（规则）
+    - 这里：屠杀
+    - 其他：体育新闻里也会夸张地用，`they got massacred 10-0` = 他们被打得惨败，不是真的死人
+  - `witness` /ˈwɪtnəs/
+    - 词性：vt. 及物（这里）；也作 n. 可数
+    - 变形：witness – witnessed – witnessed（规则）；名词复数 witnesses
+    - 这里：目睹
+    - 其他：法律上 `a witness` 专指「证人」，`witness for the defense` = 辩方证人；动词也可以是「见证（文件签署）」，`witness a contract` = 作为见证人在合同上签字
+  - `lie` /laɪ/
+    - 词性：vi. 不及物
+    - 变形：lie – lay – lain（不规则，注意和「说谎」的 lie – lied – lied 是两个完全不同的动词，长得一样）
+    - 这里：`lie awake` = 躺着却睡不着
+    - 其他：`lie in` = 存在于、蕴藏在（后面一句 `greatness lies in you` 就是这个用法）；一定别和 `lay`（放置，及物动词，lay – laid – laid）搞混，这是英语母语者也常犯的错
 
 **Knowing history has its eyes on me.**（背景 Laurens、Mulligan 轻声哼着「Whoa…」）
 
@@ -32,6 +48,16 @@ Washington 在战前告诉 Hamilton：历史在看着你。他自己年轻时带
 
 - 中文：让我告诉你一件我年轻时梦想荣耀时、希望自己早就知道的事：你没法控制：谁活下来，谁死去，谁讲述你的故事。
 - 语法：`what I wish I'd known` = 我希望自己（当时）就知道的事，`wish + 过去完成时` 表示对过去的遗憾。`Who lives, who dies, who tells your story` 是三个由 `who` 引导的名词性从句，共同做 `control` 的宾语——这句话会在终曲变成整部剧的标题和主题句。
+- 单词：
+  - `glory` /ˈɡlɔːri/
+    - 词性：n. 不可数
+    - 这里：荣耀
+    - 其他：常见搭配 `in all its glory` = 以其全部的辉煌（常带点调侃），`glory days` = 辉煌的旧日时光；动词 `glorify` = 把……美化、神化
+  - `control` /kənˈtroʊl/
+    - 词性：n. 不可数（这里）；也作 vt. 及物
+    - 变形：动词 control – controlled – controlled（规则，重复尾字母 l）
+    - 这里：`you have no control` = 你无法掌控
+    - 其他：常见搭配 `be in control (of sth)` = 掌控着某事；`out of control` = 失控
 
 **I know that we can win. I know that greatness lies in you. But remember from here on in,**
 

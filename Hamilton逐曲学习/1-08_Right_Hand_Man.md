@@ -41,9 +41,26 @@
 **Can I be real a second? For just a millisecond? Let down my guard and tell the people how I feel a second? Now I'm the model of a modern major general, the venerated Virginian veteran whose men are all lining up, to put me up on a pedestal, writin' letters to relatives embellishin' my elegance and eloquence, but the elephant is in the room, the truth is in ya face when ya hear the British cannons go… Boom!**
 
 - 中文：能让我说一句实话吗？就一毫秒的时间？能让我卸下防备，告诉大家我真实的感受吗？现在的我是"现代少将的典范"，是被人尊崇的弗吉尼亚老兵，部下们排着队，要把我捧上神坛，写信给亲戚，添油加醋地夸我的优雅和口才，但房间里那头大象谁都看得见——真相就摆在你脸上，就是你听见英军大炮响起的那一声……轰！
-- 语法：`the model of a modern major general` 是在戏仿吉尔伯特与苏利文歌剧《彭赞斯的海盗》里的经典唱段，自嘲自己被捧成一个"典范"的虚名。`the elephant in the room`（这里写成 `the elephant is in the room`）是成语，指人人看见、谁也不提的事实；真正的"大象"就是：英军大炮已经打响，光靠文采和虚名没有用。
-- `pedestal` /ˈpedɪstl/ 底座、雕像的基座。`put someone up on a pedestal` = 把人供起来、过度美化
-- `embellish` /ɪmˈbelɪʃ/ 添油加醋；`elegance` /ˈelɪɡəns/ 优雅；`eloquence` /ˈeləkwəns/ 口才——三个 e 开头的词押头韵
+- 语法：`the model of a modern major general` 是在戏仿吉尔伯特与苏利文歌剧《彭赞斯的海盗》里的经典唱段，自嘲自己被捧成一个"典范"的虚名。`the elephant in the room`（这里写成 `the elephant is in the room`）是成语，指人人看见、谁也不提的事实；真正的"大象"就是：英军大炮已经打响，光靠文采和虚名没有用。`embellish`、`elegance`、`eloquence` 三个 e 开头的词押头韵。
+- 单词：
+  - `pedestal` /ˈpedɪstl/
+    - 词性：n. 可数
+    - 变形：复数 pedestals
+    - 这里：底座、雕像的基座；`put sb up on a pedestal` = 把人供起来、过度美化
+    - 其他：常比喻批评不切实际的崇拜，`knock sb off their pedestal` = 发现某人的缺点后把他从崇拜的位置上拉下来
+  - `embellish` /ɪmˈbelɪʃ/
+    - 词性：vt. 及物
+    - 变形：embellish – embellished – embellished（规则）
+    - 这里：添油加醋
+    - 其他：也常用于「装饰、点缀」实物，`embellish a dress with lace` = 用花边装饰裙子
+  - `elegance` /ˈelɪɡəns/
+    - 词性：n. 不可数
+    - 这里：优雅
+    - 其他：形容词 `elegant` = 优雅的，常形容人的举止，也可形容「简洁巧妙的解决方案」，`an elegant solution`
+  - `eloquence` /ˈeləkwəns/
+    - 词性：n. 不可数
+    - 这里：口才
+    - 其他：形容词 `eloquent` = 有口才的，副词 `eloquently` 在 1-06 的 Farmer Refuted 里出现过
 
 **Any hope of success is fleeting, how can I keep leading when the people I'm leading keep retreating? We put a stop to the bleeding as the British take Brooklyn, knight takes rook, but look,**
 
@@ -59,6 +76,12 @@
 
 - 中文：他们在猛攻 Battery 炮台，去看看损失有多少。我们得阻止他们，夺走他们的优势。让我们凭着上天赐给我们的这股耐力站稳阵脚。Hamilton 不会弃船逃跑，哟，我们去偷他们的大炮——
 - 语法：`the Battery` 是纽约曼哈顿南端的一处炮台，这里兼有地名和"炮台/电池"字面义的双关余味。`rob someone of something` = 从某人那里夺走某物。`abandon ship` 本义弃船逃生，引申为危难时不逃跑——Hamilton 偏要反着用，说自己"不会弃船"。背景 Mulligan 喊 `Rah!` 助威，不单独翻译。
+- 单词：
+  - `abandon` /əˈbændən/
+    - 词性：vt. 及物
+    - 变形：abandon – abandoned – abandoned（规则）
+    - 这里：`abandon ship` = 弃船逃生（这里反着用，说自己不会弃船）
+    - 其他：抽象意义上常指「放弃（计划、想法）」，`abandon a plan`；名词 `abandonment` = 抛弃、放弃
 
 **Shh-boom! Boom! Goes the cannon, watch the blood and the shit spray and… Boom! Goes the cannon, we're abandonin' Kips Bay and… Boom! There's another ship and… Boom! We just lost the southern tip and… Boom!**
 
@@ -69,9 +92,25 @@
 
 - 中文：我们得赶紧跑去哈林区，再也输不起一次了。马匹快跑起来，我决定把部队分散开，他们被英军撕裂这座城市的样子吓得心惶惶。几乎要放弃了，承受着疯狂的审视，我对着这场几乎是叛变的局面怒吼：这就是我要用来守卫美国的那些人吗？我们半夜骑马疾行，曼哈顿在远处。我不可能同时出现在每一个地方，各位。我极度需要帮助……
 - 语法：`as` 在 `they're skittish as the British cut the city up` 里是"随着……"，表示两件事同时发生，不是"因为"。`with which I am to defend America` 中 `be to do` 表示"被赋予的任务/预定要做的事"，是比较正式的句式，`with which` 代替 `the men`，整句还原顺序是 `am I to defend America with these men?`。
-- `skittish` /ˈskɪtɪʃ/ （马或人）易受惊、神经质的
-- `scrutiny` /ˈskruːtəni/ 严密的审视、检视
-- `mutiny` /ˈmjuːtəni/ 叛变、兵变
+- 单词：
+  - `skittish` /ˈskɪtɪʃ/
+    - 词性：adj.
+    - 这里：（马或人）易受惊、神经质的
+    - 其他：也常用于金融语境，`skittish investors` = 容易恐慌抛售的投资者
+  - `scrutiny` /ˈskruːtəni/
+    - 词性：n. 不可数
+    - 这里：严密的审视、检视
+    - 其他：动词 `scrutinize` = 仔细审查；常搭配 `under scrutiny` = 处于被审视的状态
+  - `mutiny` /ˈmjuːtəni/
+    - 词性：n. 可数/不可数；也作 vi. 不及物
+    - 变形：动词 mutiny – mutinied – mutinied（规则，-y 结尾变 -ied）
+    - 这里：叛变、兵变
+    - 其他：形容词 `mutinous` = 叛变的、不服从的
+  - `divvy up` /ˈdɪvi ʌp/
+    - 词性：动词短语（phrasal verb），及物
+    - 变形：divvy – divvied – divvied（规则，-y 结尾变 -ied）
+    - 这里：`divvy up my forces` = 把部队分散开
+    - 其他：口语里常用于分摊东西，`divvy up the bill` = 分摊账单，比正式的 `divide` 更随意、更口语
 
 **Your excellency, sir! / Who are you? / Aaron Burr, sir? Permission to state my case? / As you were.**
 
@@ -102,11 +141,21 @@
 
 - 中文：我做错什么了吗，先生？——正相反。我叫你来，是因为我们的胜算差到吓人。你的名声早就传到我这儿了，但我忍不住想笑。
 - 用法：`on the contrary` = 正相反，用来否定对方刚才的担忧。`one's reputation precedes someone` = 某人的名声在他本人到场之前就先传开了。
+- 单词：
+  - `odds` /ɑːdz/
+    - 词性：n. 复数名词，固定用复数形式
+    - 这里：`our odds are beyond scary` = 我们的胜算差到吓人
+    - 其他：`the odds of sth happening` = 某事发生的概率；`against all odds` = 克服了极大困难；赌博里 `the odds` = 赔率
 
 **Hamilton, how come no one can get you on their staff? / Don't get me wrong, you're a young man, of great renown. I know you stole British cannons when we were still downtown.**
 
 - 中文：Hamilton，怎么回事，怎么没人能把你招进自己的参谋班子？——别误会，你是个年轻人，名声不小。我知道你们还在市区的时候，你去偷过英军的大炮。
 - 语法：`how come + 陈述句`（不倒装）是口语里"怎么会……"的疑问句式，和标准疑问句 `why does no one...` 语序不同，`how come` 后面直接接主语+动词。`of great renown` = 名声很大，`renown` 是正式用词。
+- 单词：
+  - `renown` /rɪˈnaʊn/
+    - 词性：n. 不可数
+    - 这里：`of great renown` = 名声很大
+    - 其他：形容词 `renowned` = 著名的，常搭配 `renowned for sth` = 以某事闻名
 
 **Nathaniel Green and Henry Knox wanted to hire you… / To be their Secretary? I don't think so. / Why're you upset? / I'm not—**
 
@@ -117,7 +166,12 @@
 
 - 中文：没关系，你想打仗，你有那股饥饿感。我年轻的时候也和你一样。满脑子都是像殉道者一样死去的幻想？——是。——死很容易，年轻人。活下去才难。
 - 用法：Washington 先承认这股野心，再亲身劝退他——`dyin' like a martyr` 后面接的是 `fantasies of + -ing`。这句"死很容易，活下去才难"会在全剧反复被引用，是 Washington 对 Hamilton 最核心的告诫。
-- `martyr` /ˈmɑːrtər/ 殉道者
+- 单词：
+  - `martyr` /ˈmɑːrtər/
+    - 词性：n. 可数
+    - 变形：复数 martyrs
+    - 这里：殉道者
+    - 其他：动词常用被动 `be martyred` = 被害成为烈士；`play the martyr` = 装出一副自我牺牲、受苦受难的样子，带贬义
 
 **Why are you telling me this? / I'm being honest. I'm working with a third of what our Congress has promised. We are a powder keg about to explode, I need someone like you to lighten the load. So?**
 

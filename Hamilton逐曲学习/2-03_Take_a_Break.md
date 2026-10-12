@@ -17,19 +17,39 @@ Eliza 和儿子 Philip 在家练法语数数。Eliza 请丈夫放下工作，暑
 
 - 中文：我最亲爱的，Angelica，"明天，明天，又一个明天，日复一日，以琐碎的脚步爬行"——我相信你会懂这是在引用另一出苏格兰悲剧，不用我把剧名点出来。
 - 语法：引文是《麦克白》里的名句，人生被说成一个接一个空洞的明天。`without my having to name the play`：`without + 物主代词 + -ing`，不用我点出剧名，这是正式书面语法，口语一般说 `without me having to`。`I trust you'll` = 我相信你会，写信时的礼貌说法。
-- `reference` /ˈrefrəns/ 典故，引用
+- 单词：
+  - `reference` /ˈrefrəns/
+    - 词性：n. 可数；也作 vt. 及物
+    - 变形：复数 references；动词 reference – referenced – referenced（规则）
+    - 这里：典故、引用
+    - 其他：常见搭配 `make a reference to sth` = 提到某事；日常也常指「推荐信」，`a letter of reference` = 推荐信，或求职表格里要填的 `references`（推荐人联系方式）
 
 **They think me Macbeth, and ambition is my folly, I'm a polymath, a pain in the ass, a massive pain, Madison is Banquo, Jefferson's Macduff and Birnam Wood is Congress on its way to Dunsinane.**
 
 - 中文：他们把我当作麦克白，野心是我的愚蠢；我是个博学多才的人，一个讨厌的家伙，一个巨大的麻烦；Madison 是班柯，Jefferson 是麦克德夫，而勃南树林就是正朝着邓西纳城进发的国会。
 - 语法：`They think me Macbeth` = `think + 宾语 + 名词`，省掉了 `to be`，书面、古雅的说法。这整句是一个延伸的《麦克白》比喻：Hamilton 把自己比作野心膨胀、注定被推翻的麦克白，把政敌一一对应剧中追杀他的角色，暗示自己已经预感到政治上的末路。
-- `folly` /ˈfɑːli/ 愚蠢之举，`ambition is my folly` = 野心是我的愚蠢
-- `polymath` /ˈpɑːlimæθ/ 博学多才的人
+- 单词：
+  - `folly` /ˈfɑːli/
+    - 词性：n. 可数/不可数
+    - 变形：复数 follies
+    - 这里：`ambition is my folly` = 野心是我的愚蠢（之举）
+    - 其他：常用于书面语评价一个决定，`it would be folly to do sth` = 做某事将是愚蠢的；比 `stupidity` 更文雅、更带文学色彩
+  - `polymath` /ˈpɑːlimæθ/
+    - 词性：n. 可数
+    - 变形：复数 polymaths
+    - 这里：博学多才的人
+    - 其他：词根 `poly-`（多）+ `math`（这里不是数学，是希腊语「学习」的词根）构成，类似的词还有 `polyglot`（通晓多种语言的人）
 
 **And there you are, an ocean away. Do you have to live an ocean away? Thoughts of you subside, then I get another letter, I cannot put the notion away…**
 
 - 中文：而你就在那里，隔着一整片海洋。你非得住得这么远吗？对你的思念刚平静下来，又收到你一封信，我根本无法把这个念头放下……
 - 用法：这段由 Hamilton 和 Angelica 隔空同唱，是信件内容，也是两人心里话的外化——`an ocean away` 字面「隔着一片海洋」，这里既是地理距离，也暗指两人之间那条不能跨过的界线。`subside` /səbˈsaɪd/（情绪、水位）消退。
+- 单词：
+  - `subside` /səbˈsaɪd/
+    - 词性：vi. 不及物
+    - 变形：subside – subsided – subsided（规则）
+    - 这里：（思念）消退、平息
+    - 其他：常用于描述水位、风暴、疼痛、情绪的减退，`the floodwaters subsided` = 洪水退去，是个比较书面的词
 
 **Take a break. / I am on my way. / There's a little surprise before supper and it cannot wait.**
 
@@ -65,7 +85,17 @@ Eliza 和儿子 Philip 在家练法语数数。Eliza 请丈夫放下工作，暑
 
 - 中文：在你两周前寄给我的信里，我注意到一句话中间有个逗号。它改变了整句话的意思。你是故意的吗？就那一笔，占据了我醒着的每一天。信上写的是："我最亲爱的 Angelica"，`dearest` 后面还带了个逗号。你写的其实是："我最亲爱的人，Angelica。"
 - 语法：标点决定意思。`My dearest Angelica` 只是「最亲爱的 Angelica」（`dearest` 当形容词修饰 `Angelica`）；加了逗号后 `My dearest, Angelica` 里 `dearest` 变成名词「我最亲爱的人」，`Angelica` 变成称呼语——于是一句问候信变成了一句情话。Angelica 抓住这个逗号，说明她把每一个字都读了很多遍。`consume one's waking days` 字面「吞噬某人清醒的时日」，这里形容她因为这个逗号朝思暮想。
-- `stroke` /stroʊk/ 这里指「一笔」（笔画），不是「中风」
+- 单词：
+  - `stroke` /stroʊk/
+    - 词性：n. 可数
+    - 变形：复数 strokes
+    - 这里：一笔（笔画）
+    - 其他：日常最常让人紧张的意思是「中风」，`have a stroke` = 中风发作；也指「（游泳/划船的）一次划水」或「钢笔画出的一道笔触」，意思很多，全靠上下文
+  - `comma` /ˈkɑːmə/
+    - 词性：n. 可数
+    - 变形：复数 commas
+    - 这里：逗号
+    - 其他：和 `coma`（昏迷）拼写差一个字母、读音也不同，是常见的拼写陷阱
 
 **Anyway, all this to say I'm coming home this summer at my sister's invitation, I'll be there with your fam'ly if you make your way upstate. I know you're very busy, I know your work's important, but I'm crossing the ocean and I just can't wait. / You won't be an ocean away. You will only be a moment away…**
 

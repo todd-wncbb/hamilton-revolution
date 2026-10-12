@@ -27,12 +27,31 @@ Burr 和 Hamilton 先用死亡开场玩笑话热身，接着 Burr 追问债务�
 
 - 中文：两个弗吉尼亚人和一个移民走进一间房间——立场截然相反，是敌人。他们带着一份妥协方案走出来，打开了之前关着的门——好兄弟。
 - 语法：这段故意模仿笑话的经典开场式（"两个人走进一个酒吧……"），`walk into a room` 是笑话套路，`diametrically opposed` 是书面说法「截然相反」，和结尾俚语 `bros`（好兄弟）形成反差，调侃这几个人从死对头速成盟友的荒谬速度。
-- `diametrically` /ˌdaɪəˈmetrɪkli/ 截然相反地；`foes` /foʊz/ 敌人（书面、略古雅）
+- 单词：
+  - `diametrically` /ˌdaɪəˈmetrɪkli/
+    - 词性：adv.
+    - 这里：`diametrically opposed` = 截然相反地
+    - 其他：几乎只出现在 `diametrically opposed` 这个固定搭配里，形容词 `diametric` 单独用的时候很少
+  - `foe` /foʊ/
+    - 词性：n. 可数
+    - 变形：复数 foes
+    - 这里：敌人
+    - 其他：比日常用词 `enemy` 更书面、更古雅，常出现在正式演讲或文学作品里
 
 **The immigrant emerges with unprecedented financial power, a system he can shape however he wants. The Virginians emerge with the nation's capital. And here's the pièce de résistance: No one else was in the room where it happened. (×多次，合唱同步重复)**
 
 - 中文：那个移民带着前所未有的财政权力走出来，一套他能随心所欲塑造的体系。弗吉尼亚人则得到了国家的首都。而这里才是整桌菜最精彩的那一道：没有别人在那间事情发生的房间里。（合唱反复跟唱同一句）
 - 用法：`unprecedented` /ʌnˈpresɪdentɪd/ 前所未有；`emerge with` = 带着某种结果走出来。`pièce de résistance` /piˌɛs də reɪˌzɪˈstɑːns/ 法语借词，字面「一桌菜里最精彩的那道」，引申为「最厉害的一招、压轴好戏」，Burr 用它形容这笔交易的精华——也就是接下来反复唱的副句：`the room where it happened` 是定语从句，`it happened` 修饰 `room`，被反复咀嚼，像 Burr 自己也在不断咀嚼这件他进不去的事。
+- 单词：
+  - `unprecedented` /ʌnˈpresɪdentɪd/
+    - 词性：adj.
+    - 这里：前所未有的
+    - 其他：和 1-01 里出现过的 `precedent`（先例）同源，否定前缀 `un-` 直接否定
+  - `emerge` /ɪˈmɜːrdʒ/
+    - 词性：vi. 不及物，常接 `with/from`
+    - 变形：emerge – emerged – emerged（规则）
+    - 这里：`emerge with sth` = 带着某种结果走出来
+    - 其他：名词 `emergence` = 出现、浮现；常用于描述新趋势、新现象的出现，`the emergence of a new technology`
 
 **No one really knows how the game is played, the art of the trade, how the sausage gets made. We just assume that it happens. But no one else is in the room where it happens.**
 
@@ -43,6 +62,20 @@ Burr 和 Hamilton 先用死亡开场玩笑话热身，接着 Burr 追问债务�
 
 - 中文：（合唱：）Thomas 说——有一天 Alexander 跑到 Washington 家门口，狼狈又慌乱。（合唱：）Thomas 说——Alexander 说——"我没有别的地方可去了！"而且基本上是在求我加入这场混战。
 - 语法：`Thomas claims` 反复出现在每一句前面，是叙事上的免责声明——这整段故事是 Jefferson 单方面的说法，真假存疑；`claim` 本身就带着「声称、未必属实」的含义。`distress 'n disarray` 头韵，狼狈又混乱。`the fray` /freɪ/ 混战、争斗。
+- 单词：
+  - `claim` /kleɪm/
+    - 词性：vt. 及物；也作 n. 可数
+    - 变形：claim – claimed – claimed（规则）
+    - 这里：声称（未必属实）
+    - 其他：也常指「索赔、认领」，`claim insurance` = 索赔；`claim a prize` = 领奖，和「声称」这个意思不完全是一回事，要看搭配的宾语
+  - `distress` /dɪˈstres/
+    - 词性：n. 不可数；也作 vt. 及物
+    - 这里：狼狈、困苦（的状态）
+    - 其他：`in distress` 是常见搭配，`a ship in distress` = 遇险的船；动词 `distress sb` = 使某人痛苦、不安
+  - `fray` /freɪ/
+    - 词性：n. 可数（这里，`the fray`）；也作 vi./vt.
+    - 这里：混战、争斗
+    - 其他：动词义完全不同——`fray` 当动词是「（布料边缘）磨损、磨破」，`my nerves are frayed` = 我的神经都绷断了，是个常见的比喻说法
 
 **I approached Madison and saids— "I know you hate 'im, but let's hear what he has to say." / Thomas claims— Well, I arranged the meeting. I arranged the menu, the venue, the seating,**
 
@@ -63,6 +96,16 @@ Burr 和 Hamilton 先用死亡开场玩笑话热身，接着 Burr 追问债务�
 
 - 中文：（合唱：）于是 Jefferson 带着一份晚宴邀请走近，Madison 则用一套弗吉尼亚式的精明回应："或许我们能用一个问题解决另一个问题，顺便为南方人赢一场胜利，换句话说——"（Jefferson：）哦呵！（Madison：）"一次交换条件。"（Jefferson：）我想也是。（Madison：）"你不是也想在离家更近的地方工作吗？"（Jefferson：）确实想。（Madison：）"那我提议波托马克河。"（Jefferson：）那你会给他投票吗？（Madison：）"这个嘛，看情况吧。"（Jefferson：）走吧。
 - 语法：`quid pro quo` /ˌkwɪd proʊ ˈkwoʊ/ 拉丁语借词，字面「以此换彼」，即「交换条件」——这正是整首歌的核心机制：每个人都用一件东西换另一件东西。`a little closer to home` 字面「离家更近一点」，实指把首都搬到弗吉尼亚附近，对 Jefferson 本人也有私利。`we'll see how it goes` 是故意含糊的承诺，不是肯定的保证。
+- 单词：
+  - `quid pro quo` /ˌkwɪd proʊ ˈkwoʊ/
+    - 词性：n. 可数/不可数，拉丁语借词
+    - 这里：交换条件
+    - 其他：常用于法律、政治语境，强调「你给我一样东西，我才给你另一样东西」的交易性质，带一点点贬义色彩
+  - `propose` /prəˈpoʊz/
+    - 词性：vt. 及物
+    - 变形：propose – proposed – proposed（规则）
+    - 这里：提议（把首都设在波托马克）
+    - 其他：最广为人知的用法是「求婚」，`propose to sb` = 向某人求婚，和这里「提议方案」的意思差很远，要靠上下文分辨
 
 **My God! In God we trust. But we'll never really know what got discussed. Click-boom then it happened. And no one else was in the room where it happened.**
 
@@ -73,16 +116,32 @@ Burr 和 Hamilton 先用死亡开场玩笑话热身，接着 Burr 追问债务�
 
 - 中文：（合唱：）亚历山大·汉密尔顿！他们跟你说了什么，能让你把纽约城出卖、顺水推走？（合唱：）亚历山大·汉密尔顿！Washington 知道这场晚宴吗？是不是总统施了压，要你拿出成果？（合唱：）亚历山大·汉密尔顿！还是说，你那时候就已经知道，美国的首都放在哪儿根本不重要？
 - 用法：`sell someone/something down the river` 是英语成语，字面「把人卖到河下游」（源自美国历史上把奴隶卖到更残酷的下游种植园），引申为「出卖、背叛」。Burr 一连三个问题层层递进：从「你被收买了吗」，到「有没有更高层施压」，到最诛心的一句——「你压根不在乎首都在哪，你只在乎达成交易」，直指 Hamilton 实用主义到近乎冷酷的本质。
+- 单词：
+  - `pressure` /ˈpreʃər/
+    - 词性：n. 可数/不可数；也作 vt. 及物
+    - 这里：`Presidential pressure` = 总统施加的压力
+    - 其他：动词 `pressure sb into doing sth` = 迫使某人做某事；物理学里也是「压强、压力」，是同一个词的本义
 
 **Cuz we'll have the banks, we're in the same spot. / You got more than you gave. / And I wanted what I got. When you got skin in the game, you stay in the game. But you don't get a win unless you play in the game. Oh, you get love for it. You get hate for it. You get nothing if you… wait for it, wait for it, wait!**
 
 - 中文：（Hamilton：）因为银行会在我们手里，我们的处境没变。（Burr：）你拿到的比你付出的多。（Hamilton：）而我想要的正是我拿到的。当你在这场游戏里押了身家，你就得继续留在这场游戏里。但你不参与这场游戏，就永远赢不了。你会因此被爱，也会因此被恨。而你什么都得不到，如果你……等着，等着，等一下！
 - 语法：`skin in the game` 是俚语，字面「游戏里有自己的皮」，引申为「有切身利益、承担风险」。结尾的 `wait for it` 把全曲标题从 `Wait For It` 原样接回来——Hamilton 用这句话回敬 Burr 一直奉行的"等待"哲学，暗示 Burr 等得太久、太被动，才会被排除在决定之外。
+- 单词：
+  - `skin` /skɪn/
+    - 词性：n. 不可数（身体部位意义上）；也作 vt. 及物
+    - 这里：`skin in the game` = 切身利益、风险投入
+    - 其他：动词 `skin sb/sth` = 剥皮；日常也常当「皮肤」讲，`skin care` = 护肤
 
 **God help and forgive me, I wanna build something that's gonna outlive me.**
 
 - 中文：上帝啊，帮帮我、原谅我吧，我想建造一些能比我活得更长久的东西。
 - 用法：`outlive` = 比……活得更久。这句简短的独白把 Hamilton 一整部戏的驱动力说得很清楚——他不在乎过程体不体面，只在乎留下的东西能不能超越他自己的寿命，这也是他愿意为了"把事情办成"而不惜被 Burr 质问的原因。
+- 单词：
+  - `outlive` /ˌaʊtˈlɪv/
+    - 词性：vt. 及物
+    - 变形：outlive – outlived – outlived（规则）
+    - 这里：比……活得更久
+    - 其他：前缀 `out-` 常表示「超过」，同类词还有 `outlast`（比……更持久）、`outnumber`（数量超过）、`outperform`（表现超过）
 
 **What do you want, Burr? What do you want, Burr? If you stand for nothing, Burr, then what do you fall for?**
 
@@ -93,11 +152,23 @@ Burr 和 Hamilton 先用死亡开场玩笑话热身，接着 Burr 追问债务�
 
 - 中文：我想要身处那间事情发生的房间。那间事情发生的房间。（反复多次）我必须得，我必须得待在那间房间里，那间大大的房间里……
 - 语法：这是全曲的情感爆发点——注意 Burr 的措辞从 `I wanna be`（我想要，带着选择的余地）一路升级到 `I've got to be`（我必须，不容商量）。`want` 和 `have got to` 之间的落差，正是野心悄悄变成饥渴的过程，合唱在背景里把同一句话一遍遍叠加，制造出欲望越滚越大的效果。
+- 单词：
+  - `want` /wɑːnt/
+    - 词性：vt. 及物
+    - 变形：want – wanted – wanted（规则）
+    - 这里：想要（带选择余地）
+    - 其他：和 `have got to`（必须）对比是本句的重点——`want` 表达愿望，`have got to` 表达别无选择的义务，两者语气天差地别
 
 **The art of the compromise— Hold your nose and close your eyes. We want our leaders to save the day— But we don't get a say in what they trade away. We dream of a brand new start— But we dream in the dark for the most part. Dark as a tomb where it happens.**
 
 - 中文：妥协的艺术——捏住鼻子，闭上眼睛。我们希望领袖能挽救局面——但我们对他们到底拿什么去交换，没有发言权。我们梦想一个崭新的开始——但大多数时候，我们都是在黑暗中做这个梦。黑得像一座坟墓，那间事情发生的地方。
 - 用法：`hold your nose and close your eyes` 字面「捏住鼻子，闭上眼睛」，形容面对一件肮脏但又不得不接受的事时，假装没看见、没闻到。`trade away` = 作为交换而放弃某物。结尾把 `the room` 比作 `a tomb`（坟墓），把权力密室的隐秘和死亡的终极秘密并置，呼应全曲开头 Mercer 将军"死了才能留名"的黑色玩笑。
+- 单词：
+  - `tomb` /tuːm/
+    - 词性：n. 可数
+    - 变形：复数 tombs
+    - 这里：坟墓
+    - 其他：注意拼写里的 `b` 不发音，读音接近 `tomb` /tuːm/；和 `tombstone`（墓碑）、`tomb raider`（盗墓者）是一家子
 
 **I've got to be in the room where it happens… I've got to be, I've gotta be, I've gotta be… in the room! Click-boom!**
 

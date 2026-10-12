@@ -17,7 +17,11 @@
 
 - 中文：为自由举杯，这种事你再也不会见到第二次了。不管"她"（婚姻、新娘）跟你说什么，今晚再喝一轮！为我们四个人举杯，为刚脱离贫穷的我们举杯！我们会把今晚的故事讲下去。
 - 用法：这段重用第 4 曲《The Story of Tonight》的敬酒曲调和歌词，是一次情感重演：当年四个穷小子为"自由"和彼此举杯，现在多了"有人结婚了"这件事。`newly not poor` 里 `newly` 加上一个临时造出来的形容词 `not poor`，意思是"刚刚不再贫穷的"，歌词经常这样临时组词制造新鲜感。
-- `the newly not poor of us` 刚脱离贫穷的我们
+- 单词：
+  - `poor` /pʊr/
+    - 词性：adj.
+    - 这里：`newly not poor` = 刚刚不再贫穷的
+    - 其他：`newly` + 形容词是常见造词法，`newly married`（新婚的）、`newly discovered`（新发现的）
 
 **Well, if it isn't Aaron Burr. / Sir! / I didn't think that you would make it. / To be sure.**
 
@@ -37,8 +41,16 @@
 **Now, be sensible. From what I hear, you've made yourself indispensable.**
 
 - 中文：理智一点吧。听说你已经把自己变得不可或缺了。
-- 用法：Burr 劝 Hamilton 不要多管闲事、安分一点。`sensible` /ˈsensəbl/ 明智的，不要和 `sensitive`（敏感的）搞混。
-- `indispensable` /ˌɪndɪˈspensəbl/ 不可或缺的，`make oneself + 形容词` = 让自己变成……
+- 用法：Burr 劝 Hamilton 不要多管闲事、安分一点。
+- 单词：
+  - `sensible` /ˈsensəbl/
+    - 词性：adj.
+    - 这里：理智的、明智的
+    - 其他：常被误以为等于 `sensitive`（敏感的），两者意思完全不同，是经典的「形似义异」陷阱词
+  - `indispensable` /ˌɪndɪˈspensəbl/
+    - 词性：adj.
+    - 这里：不可或缺的，`make oneself + 形容词` = 让自己变成……
+    - 其他：反义词 `dispensable`（可以没有的、可替代的），`make oneself indispensable` 是职场里常用的说法
 
 **Well, well, I heard you've got a special someone on the side, Burr. / Is that so? / What are you tryin' to hide, Burr? / I should go.**
 
